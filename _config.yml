@@ -25,9 +25,8 @@ title                    : "On a Darkling Whim"
 title_separator          : "-"
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Doug Langille"
-description              : >- 
-  Dark stories, tales of whimsy and random brain droppings.
-url                      : https://douglangille.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Dark stories, tales of whimsy and random brain droppings."
+url                      : https://douglangille.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : douglangille/douglangille.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 github                   : [metadata]
@@ -112,7 +111,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:me@douglangille.ca"
+      url: "mailto:me@douglangille.ca"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://douglangille.ca"
@@ -292,10 +291,20 @@ defaults:
       comments: true
       share: true
       related: true
+      overlay_filter: .5
+#      excerpt_separator: "\r\n"
+      classes: wide
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
-      author_profile: true      
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      overlay_filter: .5
+ #     excerpt_separator: "\r\n"
+      classes: wide
