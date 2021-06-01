@@ -1,6 +1,6 @@
 # What is this?
 
-The repository is the source for https://douglangille.ca
+This repository is the source for https://douglangille.ca
 
 It's coded using the [Jekyll framework](https://jekyllrb.com/) and the source is managed on GitHub via the [GitHub Pages](https://pages.github.com). 
 
