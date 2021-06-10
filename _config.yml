@@ -23,7 +23,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-CA"
 title                    : "On a Darkling Whim"
 title_separator          : "-"
-subtitle                 : "a digital garden" # site tagline that appears below site title in masthead
+subtitle                 : "Dark stories, tales of whimsy and random brain droppings." # site tagline that appears below site title in masthead
 name                     : "Doug Langille"
 description              : "Dark stories, tales of whimsy and random brain droppings."
 url                      : https://douglangille.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
