@@ -37,7 +37,7 @@ breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 
 comments:
-  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -51,9 +51,8 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
-    branch               : "master"
-    endpoint             : "https://api.staticman.net/v3/entry/github/"
-    moderation           : false
+    branch               : # "master"
+    endpoint             : # "https://api.staticman.net/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
