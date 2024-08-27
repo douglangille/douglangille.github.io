@@ -1,0 +1,28 @@
+---
+layout: archive
+author_profile: true
+classes: wide
+entries_layout: grid
+title: ""
+pagination:
+  enabled: true
+---
+
+<head>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<h1 id="page-title" class="page__title">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h1>
+<div class="entries-{{ page.entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=page.entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}

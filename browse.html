@@ -1,0 +1,40 @@
+---
+title: "Browse"
+layout: archive
+author_profile: true
+classes: wide
+---
+
+{% assign categories_max = 0 %}
+{% for category in site.categories %}
+  {% if category[1].size > categories_max %}
+    {% assign categories_max = category[1].size %}
+  {% endif %}
+{% endfor %}
+
+<ul class="taxonomy__index" style="grid-template-columns: repeat(1,1fr);">
+  {% for i in (1..categories_max) reversed %}
+    {% for category in site.categories %}
+      {% if category[1].size == i %}
+        <li>
+          <a href="{{ site.baseurl }}{{ category[0] }}">
+            <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+          </a>
+
+          {% assign alltags = category[1] | sort %} 
+          {% assign grouptag =  alltags | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
+          <ul class="taxonomy__index">
+            {% for tag in grouptag %}
+              <li>
+                <a href="{{ site.baseurl }}{{ tag.name }}">
+                  <strong>{{ tag.name }}</strong> <span class="taxonomy__count">{{ tag.size }}</span>
+                </a>
+              </li>  
+            {% endfor %}
+          </ul>
+
+        </li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>

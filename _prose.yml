@@ -1,0 +1,26 @@
+prose:
+  siteurl: 'https://douglangille.ca'
+  media: '/assets/images'
+  metadata:
+    _posts:
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Categories"
+          placeholder: "Choose Categories"
+          options:
+            - name: "Musings"
+              value: "musings"
+            - name: "Writings"
+              value: "writings"
+            - name: "WriteTips"
+              value: "writetips"
+            - name: "DigitalLife"
+              value: "digitallife"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          alterable: true
+          
+              

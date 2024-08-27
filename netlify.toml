@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/.well-known/webfinger"
+  to = "https://mastodon.online/.well-known/webfinger?resource=acct:douglangille@mastodon.online"
+  status = 200
+  
+[[redirects]]  
+  from = "/@douglangille"
+  to = "https://mastodon.online/@douglangille"
+  status = 200

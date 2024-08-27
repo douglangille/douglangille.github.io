@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// $serif: "Roboto Slab", Georgia, Times, serif !default;
+// $sans-serif: "Inter", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$serif: "Merriweather", Georgia, Times, serif !default;
+$sans-serif: "Raleway", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$global-font-family : $serif;
+.site-title { font-family: "Griffy", cursive; font-size: 1.25em; font-weight:normal!important; }   
+.site-subtitle { font-family: $sans-serif; font-size: small; }
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// .page img:first-of-type { float:right; max-width:400px; margin-left:1em; margin-bottom:1em; }
+
+// code { white-space: pre-wrap; }
+// .align-right, .align-left { max-width: 25rem; }
+.archive__item-teaser img, .half img { object-fit: cover; aspect-ratio: 3/2; }
