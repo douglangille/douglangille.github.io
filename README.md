@@ -1,6 +1,6 @@
 # What is this?
 
-This repository is the source for https://douglangille.ca
+This repository is the source for the non-wordpress version of https://douglangille.ca. It's available at https://douglangille.netlify.app. 
 
 It's coded using the [Jekyll framework](https://jekyllrb.com/), previously served with [GitHub Pages](https://pages.github.com) and now published using [Netlify](https://netlify.com).
 
