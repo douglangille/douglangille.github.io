@@ -1,17 +1,25 @@
 ---
-layout: archive
+layout: splash
 author_profile: true
 classes: wide
 entries_layout: grid
-title: ""
 pagination:
   enabled: true
+header:
+  image: /assets/images/crop-0-0-1024-256-0-1654535679801.jpeg
+intro:
+  - excerpt: "Doug Langille is a writer, mentor and shameless technophile living the good life in Nova Scotia."
+work:
+  - excerpt: "He bravely leads Digital Innovation & Development at the Nova Scotia Community College."
+snark:
+  - excerpt: "Doug doesn’t usually talk about himself in the third-person, but when he does he tends to bend the truth."
 ---
 
 <head>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
+<!--
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
@@ -26,3 +34,11 @@ pagination:
 </div>
 
 {% include paginator.html %}
+-->
+
+{% include feature_row id="intro" type="center" %}
+{% include feature_row id="work" type="center" %}
+{% include feature_row id="snark" type="center" %}
+
+
+

@@ -8,3 +8,4 @@ The base theme is [Minimal Mistakes](https://mmistakes.github.io/minimal-mistake
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/35e834aa-3d47-442c-ba83-3fb8e1997c9e/deploy-status)](https://app.netlify.com/sites/douglangille/deploys)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3e2c98e-de6a-4b2e-bbcf-fbcca61cbd0a/deploy-status)](https://app.netlify.com/sites/douglangille/deploys)

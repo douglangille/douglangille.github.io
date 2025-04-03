@@ -1,5 +1,13 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Browse"
-    url: /browse/
+#  - title: "About"
+#    url: /about/
+#  - title: "Browse"
+#    url: /browse/
+  - title: "Musings"
+    url: /musings/
+  - title: "Writings"
+    url: /writings/
+#  - title: "Write Tips"
+#    url: /writetips/
+  - title: "Substack"
+    url: https://douglangille.substack.com
