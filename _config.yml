@@ -33,7 +33,6 @@ timezone                : America/Halifax
 
 include:
   - _pages
-  - .well-known
 
 plugins:
   - jekyll-paginate-v2
