@@ -125,6 +125,9 @@ author:
 #    - label             : "Mastodon"
 #      icon              : "fab fa-fw fa-mastodon"
 #      url               : "https://douglangille.ca/@douglangille"
+    - label             : "Substack"
+      icon              : "fa-regular fa-fw fa-newspaper"
+      url               : "https://douglangille.substack.com"
 
 footer:
   links:

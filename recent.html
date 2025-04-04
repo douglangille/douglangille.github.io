@@ -1,0 +1,24 @@
+---
+layout: archive
+author_profile: true
+classes: wide
+title: ""
+entries_layout: grid
+pagination:
+  enabled: true
+---
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<h1 id="page-title" class="page__title" style="margin-top:-.5em;">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h1>
+<div class="entries-{{ page.entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=page.entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
