@@ -16,6 +16,7 @@ teaser                  : /assets/images/white500x300.jpg
 logo                    : 
 masthead_title          :
 
+remote_theme                   : minimal-mistakes-jekyll
 theme                   : minimal-mistakes-jekyll
 minimal_mistakes_skin   : default
 
