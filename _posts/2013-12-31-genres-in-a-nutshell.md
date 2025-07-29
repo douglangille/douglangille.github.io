@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/e835b60a29f2033ecd0b470de7444e90fe76e6d01db5124296f1c5_640_bookstore.jpg">Walk in to any bookstore or library and we are confronted by the 'Genre Beast'. There are many ways to categorize books and genre is but one. Bookstores are notorious for mashing everything together, it's the dark art known as 'marketing' that drives the bus.  It's maddening. So, in an attempt to clear things up, here's how it breaks down...
+<img src="https://douglangille.github.io/assets/images/e835b60a29f2033ecd0b470de7444e90fe76e6d01db5124296f1c5_640_bookstore.jpg">Walk in to any bookstore or library and we are confronted by the 'Genre Beast'. There are many ways to categorize books and genre is but one. Bookstores are notorious for mashing everything together, it's the dark art known as 'marketing' that drives the bus.  It's maddening. So, in an attempt to clear things up, here's how it breaks down...
 
 There's this thing called 'Technique':
 

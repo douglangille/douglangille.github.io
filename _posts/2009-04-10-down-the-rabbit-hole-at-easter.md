@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/e835b00b21f7003ecd0b470de7444e90fe76e6d01cb5164996f6c7_640_rabbit-hole.jpg">I firmly believe in <a href="http://blog.douglangille.ca/post/6810259/18-practical-tips-for-living-the-golden-rule">the golden rule</a>, which is a common thread with all religions --- it's unfortunate the <a href="http://blog.douglangille.ca/post/33322137/do-unto-others-before-they-do-unto-you">opposing biological imperative</a> still reigns.
+<img src="https://douglangille.github.io/assets/images/e835b00b21f7003ecd0b470de7444e90fe76e6d01cb5164996f6c7_640_rabbit-hole.jpg">I firmly believe in <a href="http://blog.douglangille.ca/post/6810259/18-practical-tips-for-living-the-golden-rule">the golden rule</a>, which is a common thread with all religions --- it's unfortunate the <a href="http://blog.douglangille.ca/post/33322137/do-unto-others-before-they-do-unto-you">opposing biological imperative</a> still reigns.
 
 Still, I try to be <a href="http://blog.douglangille.ca/post/30313135/beliefs">respectful of others beliefs</a>, despite what can be humorous<a href="http://blog.douglangille.ca/post/37127558/brigno-riotrepublic-martin-sheen-burns-a">christian extremist</a> and <a href="http://blog.douglangille.ca/post/31578933/captain-kirk-on-atheism">atheist flame-bait</a>. In the end, it's <a href="http://blog.douglangille.ca/post/59175730/do-you-determine-your-beliefs-or-do-your-beliefs">an individual choice</a> but we tend overlook the importance of <a href="http://blog.douglangille.ca/post/77080333/teaching-human-ethics-and-simply-being-thankful">teaching human ethics</a> in the interest of not wishing to offend.
 

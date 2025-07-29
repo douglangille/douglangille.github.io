@@ -7,7 +7,7 @@ categories:
 tags:
   - Poetry
 ---
-<img src="/assets/images/Hole_y_Tree_by_flurrynight.jpg">*If you go down in the woods today, you're sure of a big surprise.*  
+<img src="https://douglangille.github.io/assets/images/Hole_y_Tree_by_flurrynight.jpg">*If you go down in the woods today, you're sure of a big surprise.*  
  *If you go down in the woods today, you'd better go in disguise.*
 
 'Cause me and Pete play hide-and-seek, happy and fancy-free.  

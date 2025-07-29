@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/Halyards.jpg">I live in Nova Scotia and have most of my life. It's a smallish province, nearly surrounded by the Atlantic. At any given point, wherever we are in the province, the ocean is an hour or so away. Even inland, the salty air can tickle our noses if the wind is just right.
+<img src="https://douglangille.github.io/assets/images/Halyards.jpg">I live in Nova Scotia and have most of my life. It's a smallish province, nearly surrounded by the Atlantic. At any given point, wherever we are in the province, the ocean is an hour or so away. Even inland, the salty air can tickle our noses if the wind is just right.
 
 A maritime culture is just who I am. Music and verse is a big part of that.
 

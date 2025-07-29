@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/3648773666_35714d3792_b.jpg">Candy emptied the tobacco can in the sink, put it back under the leaking window and sat down. The chair squeaked its complaint, but bore the man's girth steadily. It had been raining since the middle of the night. Everything was soaked. The crew was hunkered down in Cranky's trailer. It was supposed to clear up around supper time. They'd be able to open up and things would be a-hopping. Friday nights were always the busiest at the carnival. But right now, it was only a little after noon. Everyone was getting bored and a little stir-crazy.
+<img src="https://douglangille.github.io/assets/images/3648773666_35714d3792_b.jpg">Candy emptied the tobacco can in the sink, put it back under the leaking window and sat down. The chair squeaked its complaint, but bore the man's girth steadily. It had been raining since the middle of the night. Everything was soaked. The crew was hunkered down in Cranky's trailer. It was supposed to clear up around supper time. They'd be able to open up and things would be a-hopping. Friday nights were always the busiest at the carnival. But right now, it was only a little after noon. Everyone was getting bored and a little stir-crazy.
 
 The trailer was one of those tow-behinds. It served as Ross's office, Cranky's tool-shed and the staff kitchen. On bad weather days, it also sufficed as a holding pen and makeshift games room. Greasy, Candy, Wheeler and Tix were seated around the worn but serviceable chrome table. The foursome were deeply entrenched in a game of ten-cent ante.
 

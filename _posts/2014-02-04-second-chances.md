@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/bar_by_zeitweilig.jpg">Archie winced and swallowed. The beer tasted watery and flat. Ever since Pop died, this place wasn't the same. Jug tried hard, but he didn't have the mind for business.
+<img src="https://douglangille.github.io/assets/images/bar_by_zeitweilig.jpg">Archie winced and swallowed. The beer tasted watery and flat. Ever since Pop died, this place wasn't the same. Jug tried hard, but he didn't have the mind for business.
 
 "Sorry 'bout that, Arch. Listen, this one is on the house."
 

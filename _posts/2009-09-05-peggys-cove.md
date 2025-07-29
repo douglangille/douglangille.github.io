@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20090907-161345.jpg" alt="" />
+<img src="https://douglangille.github.io/assets/images/20090907-161345.jpg" alt="" />
 
 My sweetheart Rhonda, our friend Johanna and I did a little local tourism today.
 

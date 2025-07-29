@@ -5,7 +5,7 @@ header:
 categories:
   - Writings
 ---
-<img src="/assets/images/5297560931_2107f4287a_christmas-elf.jpg">"Blinky, put that wrench down and get over here. I need a hand."
+<img src="https://douglangille.github.io/assets/images/5297560931_2107f4287a_christmas-elf.jpg">"Blinky, put that wrench down and get over here. I need a hand."
 
 "What's up, Stinky? Can't reach the top shelf?"
 

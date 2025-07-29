@@ -5,7 +5,7 @@ header:
 categories:
   - WriteTips
 ---
-<img src="/assets/images/ac-bbt.jpg">Over the holidays, I was asked about the many characters in my stories and how I come up with them. I wasn't able to provide a very good answer because I tend not to create them on purpose. I 'back-engineer' my creations' backstories and traits after I'm well into writing them. They rarely pop into my head fully-formed, but reveal themselves as I write. Sometimes, I'm flabbergasted what I discover along the way.
+<img src="https://douglangille.github.io/assets/images/ac-bbt.jpg">Over the holidays, I was asked about the many characters in my stories and how I come up with them. I wasn't able to provide a very good answer because I tend not to create them on purpose. I 'back-engineer' my creations' backstories and traits after I'm well into writing them. They rarely pop into my head fully-formed, but reveal themselves as I write. Sometimes, I'm flabbergasted what I discover along the way.
 
 This is probably fine for short fiction (most of what I write), but I've ended up with this rogues gallery of personalities yelling at me for more 'page time'. It's my own special flavour of multiple personality disorder. I suspect all us writerly-types are similarly afflicted.
 

@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/lemon-364274.jpg">I constructed my lair from the choicest rock candy, not dollar store seconds. The emerald green ribbon glowed deep within the rot of my heart. Shielded from the lemony rains, I would finally be free. Free to liberate Candytown from its chocolatey oppressors. Too long have the goody-good cocoa-dolts ruled the town. There was a time when candies and taffies prospered. And that time will come again.
+<img src="https://douglangille.github.io/assets/images/lemon-364274.jpg">I constructed my lair from the choicest rock candy, not dollar store seconds. The emerald green ribbon glowed deep within the rot of my heart. Shielded from the lemony rains, I would finally be free. Free to liberate Candytown from its chocolatey oppressors. Too long have the goody-good cocoa-dolts ruled the town. There was a time when candies and taffies prospered. And that time will come again.
 
 The bubblegum balloon idea came to me by accident. I busied myself boiling my citric acid syrup while my henchman, Butterfingers, was chewing bubble gum. Blowing bubbles kept him focused so I let him, but when the hot steam caused the latest bubble to rise, I watched with amazement.
 

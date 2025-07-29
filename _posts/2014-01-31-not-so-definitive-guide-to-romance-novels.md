@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/tumblr_inline_n063y7BEVe1srt9b2.jpg">So, when I opted to write this article on romance novels, my first thought was that I had to ask for help. When I did so, I was swiftly told to hand in my 'Man Card'. Uh-oh. What had I gotten myself into?
+<img src="https://douglangille.github.io/assets/images/tumblr_inline_n063y7BEVe1srt9b2.jpg">So, when I opted to write this article on romance novels, my first thought was that I had to ask for help. When I did so, I was swiftly told to hand in my 'Man Card'. Uh-oh. What had I gotten myself into?
 
 Curiously, one of the first responses I received was that the best romance novels were ones that weren't entirely romance, that it wasn't the focus of the story. That got me to thinking (dangerous practice): what defines a romance novel?
 

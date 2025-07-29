@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/Freytags_pyramid.svg_.jpg">Let's start with a serviceable definition of plot:
+<img src="https://douglangille.github.io/assets/images/Freytags_pyramid.svg_.jpg">Let's start with a serviceable definition of plot:
 
 > 
   A plot is the event or events that are used to insure that you get your story and characters from point A to point Z.

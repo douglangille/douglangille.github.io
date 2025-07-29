@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/ea32b10e28e91c72d252440dee4a5b97e772e7d118b7124691_640_cloud.jpg">I have 5gb on Dropbox, but it requires that I install a client to access it which is fine for iPad, BlackBerry (and PlayBook) and a computer with which one has administrative control. That's fine as it's popular and integrates with damn near everything. However, it's a bad citizen on a corporate LAN (with LANsync enabled by default). In a thin client environment, it's a PITA because there is no WebDAV access.
+<img src="https://douglangille.github.io/assets/images/ea32b10e28e91c72d252440dee4a5b97e772e7d118b7124691_640_cloud.jpg">I have 5gb on Dropbox, but it requires that I install a client to access it which is fine for iPad, BlackBerry (and PlayBook) and a computer with which one has administrative control. That's fine as it's popular and integrates with damn near everything. However, it's a bad citizen on a corporate LAN (with LANsync enabled by default). In a thin client environment, it's a PITA because there is no WebDAV access.
 
 SugarSync is similar to Dropbox and has more bells and whistles. At some point it's just bloat. Again, without WebDAV support, a client install is required to make it super-effective.
 

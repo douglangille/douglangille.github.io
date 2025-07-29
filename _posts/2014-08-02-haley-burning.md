@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/match-268526.jpg">I knew I was playing with fire, but since when had that stopped me? I couldn't turn it off even if I wanted to.
+<img src="https://douglangille.github.io/assets/images/match-268526.jpg">I knew I was playing with fire, but since when had that stopped me? I couldn't turn it off even if I wanted to.
 
 "Hi, Ben," I said, loosening my grip on the knife. Friend or foe, the guy was still my brother. "What brings you here?"
 

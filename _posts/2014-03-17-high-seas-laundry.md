@@ -7,7 +7,7 @@ categories:
 tags:
   - Poetry
 ---
-<img src="/assets/images/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png">Captain Hook, he climbed the deck,  
+<img src="https://douglangille.github.io/assets/images/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png">Captain Hook, he climbed the deck,  
  Lookin' for Smee, to give him heck.
 
 His eyes, they blazed, all full of fire.  

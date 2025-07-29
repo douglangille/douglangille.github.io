@@ -7,7 +7,7 @@ categories:
 tags:
   - Poetry
 ---
-<img src="/assets/images/8683286803_197ea2417f_sea-siren.jpg">Murderer! Murderer! I thought I would ne'er hear that word.  
+<img src="https://douglangille.github.io/assets/images/8683286803_197ea2417f_sea-siren.jpg">Murderer! Murderer! I thought I would ne'er hear that word.  
  But to my woe, you now bestow that label --- many times have I heard.  
  Now this is the day that I must pay for an act upon the mercilessly slain.  
  It is sublime for such a crime to conjure not images of pain.  

@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/gag.jpg">For about 50 years, this was my grandparents' house. Gramma, and then my uncle, ran a restaurant called the Cottage Store adjacent to the house. Nicknamed the "Gag", it was an institution for college students for decades.
+<img src="https://douglangille.github.io/assets/images/gag.jpg">For about 50 years, this was my grandparents' house. Gramma, and then my uncle, ran a restaurant called the Cottage Store adjacent to the house. Nicknamed the "Gag", it was an institution for college students for decades.
 
 My mother was raised in that house as were my aunt and uncles. My cousins, siblings and many a border stayed there from time to time over the years.
 

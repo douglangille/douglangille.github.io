@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/800px-Stipula_fountain_pen.jpg">It's easy to burn yourself out creatively when meeting writing deadlines or undertaking insanity projects like NaNoWriMo. Sometimes, it's just mood and the chaos of life that locks your muse in a wooden crate wrapped in chains buried in your cellar. Don't look there. Please excuse the bodies.
+<img src="https://douglangille.github.io/assets/images/800px-Stipula_fountain_pen.jpg">It's easy to burn yourself out creatively when meeting writing deadlines or undertaking insanity projects like NaNoWriMo. Sometimes, it's just mood and the chaos of life that locks your muse in a wooden crate wrapped in chains buried in your cellar. Don't look there. Please excuse the bodies.
 
 One way of dealing with your stalled writing motivation is to jump on a writing prompt and just go with it. A bunch of them can be found here: <a href="http://www.writerscarnival.ca/writing-prompts">http://www.writerscarnival.ca/writing-prompts</a>. Google is also your friend.
 

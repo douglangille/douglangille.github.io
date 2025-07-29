@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/4916784656_878789d497_b_phone.jpg">Taken from: <a href="http://theoatmeal.com/comics/customer_service">Why I'd rather be punched in the testicles than call customer service --- The Oatmeal</a>
+<img src="https://douglangille.github.io/assets/images/4916784656_878789d497_b_phone.jpg">Taken from: <a href="http://theoatmeal.com/comics/customer_service">Why I'd rather be punched in the testicles than call customer service --- The Oatmeal</a>
 
 I had an experience this week in craptacular customer service. It's good to see The Oatmeal has my back.
 

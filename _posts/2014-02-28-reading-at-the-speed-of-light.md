@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/tumblr_inline_n1grve3ymH1srt9b2.jpg">"The more that you read, the more things you will know. The more that you learn, the more places you'll go." --- Dr. Seuss
+<img src="https://douglangille.github.io/assets/images/tumblr_inline_n1grve3ymH1srt9b2.jpg">"The more that you read, the more things you will know. The more that you learn, the more places you'll go." --- Dr. Seuss
 
 First up, when reading for pleasure, do it slowly. Don't try to read faster. Enjoy the experience. If you immerse yourself in the book, you'll likely end up in a state of flow. Time won't matter.
 

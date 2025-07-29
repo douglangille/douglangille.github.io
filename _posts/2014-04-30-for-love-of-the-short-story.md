@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/tumblr_inline_n3u1ewsHr91srt9b2.jpg">*Grok walked into the cave, tired and hungry. Today's hunt bore little bounty and dusk quickly advanced into night. A solitary rabbit for his tribe would keep them alive one more day through this long winter. Grok grinned despite their tenuous state; he'd spied a glimpse of hope in a skinny herd of deer nearby. They'd venture in force tomorrow. As the band shared the greasy meat and bones, he spoke excitedly, gaining their rapt attention, a beacon of firelight and promise of better days.*
+<img src="https://douglangille.github.io/assets/images/tumblr_inline_n3u1ewsHr91srt9b2.jpg">*Grok walked into the cave, tired and hungry. Today's hunt bore little bounty and dusk quickly advanced into night. A solitary rabbit for his tribe would keep them alive one more day through this long winter. Grok grinned despite their tenuous state; he'd spied a glimpse of hope in a skinny herd of deer nearby. They'd venture in force tomorrow. As the band shared the greasy meat and bones, he spoke excitedly, gaining their rapt attention, a beacon of firelight and promise of better days.*
 
 *"You'll never believe what happened to me today."*
 

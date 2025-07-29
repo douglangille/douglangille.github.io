@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20090301-080347.jpg">I balance lazy, affordable and tasty when I make coffee.
+<img src="https://douglangille.github.io/assets/images/20090301-080347.jpg">I balance lazy, affordable and tasty when I make coffee.
 
 I use inexpensive gear that can be picked up at any grocery store or Walmart --- a grinder, a press and a kettle.
 

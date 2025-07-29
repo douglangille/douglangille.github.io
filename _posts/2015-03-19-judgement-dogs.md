@@ -5,7 +5,7 @@ header:
 categories:
   - Writings
 ---
-<img src="/assets/images/door-689874_1280.jpg">"Pansy, did you see what that meathead did?"
+<img src="https://douglangille.github.io/assets/images/door-689874_1280.jpg">"Pansy, did you see what that meathead did?"
 
 "No, Gracie, what?"
 

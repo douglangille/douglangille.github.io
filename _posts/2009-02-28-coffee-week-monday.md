@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20090302-084641.jpg">Today was a Tim's morning.
+<img src="https://douglangille.github.io/assets/images/20090302-084641.jpg">Today was a Tim's morning.
 
 The much-hyped storm produced a good layer of ice pellet sheeting everything. The rest of the day is to be filled with a good slathering of cold miserable rain and drizzle. Alas, while the kids managed a day off school, a work day was still in the cards for most everybody else.
 

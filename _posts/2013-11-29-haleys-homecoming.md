@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/7593788900_3eb3e6e0f7_small-town.jpg">I hitched my knapsack up over one shoulder and got off the bus. The bright summer sun and dusty air assaulted my senses after the long ride. I'd gotten used to a regular cadence of sleeping during the day and only hopping off at truck stop diners during the middle of the night. People, long-haulers hyped on caffeine mainly, left me alone. They stared, of course; the thin teenage girl with the wild hair and dead eyes. I didn't belong there or anywhere.
+<img src="https://douglangille.github.io/assets/images/7593788900_3eb3e6e0f7_small-town.jpg">I hitched my knapsack up over one shoulder and got off the bus. The bright summer sun and dusty air assaulted my senses after the long ride. I'd gotten used to a regular cadence of sleeping during the day and only hopping off at truck stop diners during the middle of the night. People, long-haulers hyped on caffeine mainly, left me alone. They stared, of course; the thin teenage girl with the wild hair and dead eyes. I didn't belong there or anywhere.
 
 I didn't belong in this empty shithole of a town either, but here I stood, watching the bus reach its escape velocity, leaving me trapped in the black hole of my youth. Welcome home, my ass.
 

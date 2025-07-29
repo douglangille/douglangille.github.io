@@ -5,7 +5,7 @@ header:
 categories:
   - WriteTips
 ---
-<img src="/assets/images/ea6eba4230f63778_1280_letters-handwriting.jpg">I spend a lot of time reflecting on my process: what works, what doesn't. That kind of thing. Such naval-gazing is a wonderful alternative to actual writing. Ahem.
+<img src="https://douglangille.github.io/assets/images/ea6eba4230f63778_1280_letters-handwriting.jpg">I spend a lot of time reflecting on my process: what works, what doesn't. That kind of thing. Such naval-gazing is a wonderful alternative to actual writing. Ahem.
 
 Sometimes I write the scene in my head as I see it and other times I put down all the dialog first before adding in all the little actions that make the passage leap off the page. I don't always write linearly. Beginnings, endings, or even a single sentence are all fodder for the mind.
 

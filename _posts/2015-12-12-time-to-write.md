@@ -5,7 +5,7 @@ header:
 categories:
   - WriteTips
 ---
-<img src="/assets/images/hourglass-620397_640.jpg">I can't find the time to write.
+<img src="https://douglangille.github.io/assets/images/hourglass-620397_640.jpg">I can't find the time to write.
 
 You see, I'm too busy this month.  All that chaos of shopping and family. How could I ever be expected to squirrel myself away to write? That'd be rude. The New Year is coming. I'm going to make daily writing a Resolution. Just like last year. Except this time, I'll do it. For reals. Now, pass me the rum punch. Gotta wash down this damnable fruitcake.
 

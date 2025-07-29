@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/3445269852_bca2f85d3c_b-1.jpg">Larry sat in the jail cell and tried to make himself invisible. The smell of piss, sweat and stale booze made him light-headed. An acrid mouthful of pre-vomit spittle coated his tongue.
+<img src="https://douglangille.github.io/assets/images/3445269852_bca2f85d3c_b-1.jpg">Larry sat in the jail cell and tried to make himself invisible. The smell of piss, sweat and stale booze made him light-headed. An acrid mouthful of pre-vomit spittle coated his tongue.
 
 His twelve-hundred dollar suit started out the day as a prized symbol of Larry doing all the Right Things. Balanced diet and an executive gym membership rounded out the package. He married his high school sweetheart and spawned two-point-four kids, if you count the dog. Ladder-climbing the equities business at his uncle's firm was on his Life Goal List.
 

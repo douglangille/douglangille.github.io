@@ -5,7 +5,7 @@ header:
 categories:
   - Writings
 ---
-<img src="/assets/images/20140313-090105.jpg">My name is Gracie and I am the Sentinel. I sit on the back of the Alpha's throne and keep watch. His territory is vast and I must be vigilant. The rear courtyard is fenced by a metal and wire palisade, yet I patrol it regularly, leaving my scent as warning. This is the Alpha's kingdom. None shall cross without heeding my cry: 'Who goes there?'
+<img src="https://douglangille.github.io/assets/images/20140313-090105.jpg">My name is Gracie and I am the Sentinel. I sit on the back of the Alpha's throne and keep watch. His territory is vast and I must be vigilant. The rear courtyard is fenced by a metal and wire palisade, yet I patrol it regularly, leaving my scent as warning. This is the Alpha's kingdom. None shall cross without heeding my cry: 'Who goes there?'
 
 The front yard remains unfortified despite my protests. The Alpha trusts me to stand guard and watch through the large glass window of the Great Hall. This I do willingly, for I love the Alpha.
 

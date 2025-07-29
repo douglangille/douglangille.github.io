@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/IMG_00000056.jpg">So, what has been going on since I <a href="http://blog.douglangille.ca/post/72322194528/talk-is-cheap-but-rum-costs-money">posted here back in January</a>? Good question. Let's see:
+<img src="https://douglangille.github.io/assets/images/IMG_00000056.jpg">So, what has been going on since I <a href="http://blog.douglangille.ca/post/72322194528/talk-is-cheap-but-rum-costs-money">posted here back in January</a>? Good question. Let's see:
 
 <ul>
   <li>I lost 5 of the 15 pounds I gained over Christmas</li>

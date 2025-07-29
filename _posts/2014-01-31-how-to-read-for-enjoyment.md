@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/tumblr_inline_n08wr00O4J1srt9b2.jpg">The pursuit of happiness is not a fool's errand, but what makes people happy? Consider the moment when you're completely lost in the plot of a good book, on the edge of your seat with the action of a great movie, or even elbows-deep in your favourite hobby. There is a point when you're in the zone. The clock disappears. You are in an ecstatic state of flow. You are happy.
+<img src="https://douglangille.github.io/assets/images/tumblr_inline_n08wr00O4J1srt9b2.jpg">The pursuit of happiness is not a fool's errand, but what makes people happy? Consider the moment when you're completely lost in the plot of a good book, on the edge of your seat with the action of a great movie, or even elbows-deep in your favourite hobby. There is a point when you're in the zone. The clock disappears. You are in an ecstatic state of flow. You are happy.
 
 Sometimes you read to learn, sometimes to relax, and sometimes to just escape.
 

@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/8117718787_218466fc67_ghost-sheet.jpg">"Why don't you try poking out your eyes?"
+<img src="https://douglangille.github.io/assets/images/8117718787_218466fc67_ghost-sheet.jpg">"Why don't you try poking out your eyes?"
 
 "And put them on my fingers again? Nah, that just made the last group laugh?"
 

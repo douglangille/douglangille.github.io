@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20090511-204809.jpg" alt="" />
+<img src="https://douglangille.github.io/assets/images/20090511-204809.jpg" alt="" />
 
 Perhaps not surprisingly, Seattle and area resembles parts of New Brunswick and Nova Scotia both --- except randomized a bit.
 

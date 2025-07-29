@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/tumblr_inline_mfb5obBL361rabiuj.jpg">I've voted NDP in every election for which I've been eligible save one. The first time I exercised by democratic right, I voted for Kim Campbell's Tories --- that worked out well.
+<img src="https://douglangille.github.io/assets/images/tumblr_inline_mfb5obBL361rabiuj.jpg">I've voted NDP in every election for which I've been eligible save one. The first time I exercised by democratic right, I voted for Kim Campbell's Tories --- that worked out well.
 
 I spent my teen years in Pictou County where the Mackay dynasty was deep and blue. My mom was an Antigonish Liberal and my dad was (and is) as traditional Tory as they come.
 

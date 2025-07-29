@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/9600010052_80650b2bb5_groundhog.jpg">September has rolled around again. Our youngest has been delivered to university to continue his journey into Awesomehood. My bride and I are alone without children for the first time. Ever.
+<img src="https://douglangille.github.io/assets/images/9600010052_80650b2bb5_groundhog.jpg">September has rolled around again. Our youngest has been delivered to university to continue his journey into Awesomehood. My bride and I are alone without children for the first time. Ever.
 
 I'm very proud of how the kids turned out. We've done all we could do to prepare them for life. It's time to let go, because focusing on our marriage in this next era together is both exciting and a little scary. I hope she still likes me. She probably does. I think.
 

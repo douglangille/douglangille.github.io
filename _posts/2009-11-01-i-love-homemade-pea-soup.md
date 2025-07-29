@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20091103-174603.jpg">Rhonda makes a mean split green pea soup. It's very tasty and always reminds me of a couple of jokes. The first one makes me giggle:
+<img src="https://douglangille.github.io/assets/images/20091103-174603.jpg">Rhonda makes a mean split green pea soup. It's very tasty and always reminds me of a couple of jokes. The first one makes me giggle:
 
 Big Brother to Little Brother: After everything I say, you say "Pea Green Soup," Okay?  
 LB: Okay.  

@@ -7,7 +7,7 @@ categories:
 tags:
   - Poetry
 ---
-<img src="/assets/images/4037536134_4d07ce228f_feathered-hat.jpg">Doug is dressed in his party best,  
+<img src="https://douglangille.github.io/assets/images/4037536134_4d07ce228f_feathered-hat.jpg">Doug is dressed in his party best,  
  In a feathered hat and a sequined vest.  
  With an icy beer in each hand,  
  He'd rock it out, with the band.

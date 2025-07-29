@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/tumblr_inline_n1gvn5XgT41srt9b2.jpg">When announced that <a href="http://www.kelleyarmstrong.com/bitten/">Kelley Armstrong's</a> first book, 'Bitten', was headed for the small screen, fans were pretty darned stoked.
+<img src="https://douglangille.github.io/assets/images/tumblr_inline_n1gvn5XgT41srt9b2.jpg">When announced that <a href="http://www.kelleyarmstrong.com/bitten/">Kelley Armstrong's</a> first book, 'Bitten', was headed for the small screen, fans were pretty darned stoked.
 
 Laura Vandervoort's casting was perfect. Some were initially concerned that the series would feature werewolves only and not the rest of Kelley's rich universe in the full *Women of the Otherworld* series. However, most are prepared to put that aside and simply hope for a spin-off featuring Paige Winterbourne.
 

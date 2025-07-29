@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20090305-085911.jpg">I'm in planning meetings all day that will probably feature the stereotypical coffee urn of curious vintage.
+<img src="https://douglangille.github.io/assets/images/20090305-085911.jpg">I'm in planning meetings all day that will probably feature the stereotypical coffee urn of curious vintage.
 
 As long as it's not decaf, we'll get along.
 

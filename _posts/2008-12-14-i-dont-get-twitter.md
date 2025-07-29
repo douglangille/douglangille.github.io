@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/8346162027_ccd0ee6b30_b_twitter.jpg">I tried to understand it. I really did. For almost a month, I tooled around with it trying to find a reason to use it. Apparently, a cat has more cause to tweet than I do (<a href="http://twitter.com/sockington">http://twitter.com/sockington</a>).
+<img src="https://douglangille.github.io/assets/images/8346162027_ccd0ee6b30_b_twitter.jpg">I tried to understand it. I really did. For almost a month, I tooled around with it trying to find a reason to use it. Apparently, a cat has more cause to tweet than I do (<a href="http://twitter.com/sockington">http://twitter.com/sockington</a>).
 
 So, I set it up. I linked it (with surprising diffculty) to my Facebook status and my Windows Live Messenger "personal message". Ta-da! Everyone could answer the question: "what is Doug up to?" I even set it up to work from my Blackberry. Now what?
 

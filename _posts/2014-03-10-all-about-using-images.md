@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/beef_steak_by_past1978-d4ptw25.jpg">So, you've lovingly tapped out 'The End' at the bottom of your masterpiece. Huffing a breath of relief that you've done it: your word baby is born and you want to release it to the world. Pass out the cigars.
+<img src="https://douglangille.github.io/assets/images/beef_steak_by_past1978-d4ptw25.jpg">So, you've lovingly tapped out 'The End' at the bottom of your masterpiece. Huffing a breath of relief that you've done it: your word baby is born and you want to release it to the world. Pass out the cigars.
 
 Post it to <a href="http://www.writerscarnival.ca">Writer's Carnival</a> for review! Submit it to your favorite e-zine (oh, I dunno, say, <a href="http://www.readerscarnival.ca">Reader's Carnival</a>)! Post it to your blog! Facebook! Tweet it! Pin it!
 

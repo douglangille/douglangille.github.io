@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/tumblr_mh9makYGXf1rlipfwo1_1280.png">I enjoyed a day off and accomplished very little.
+<img src="https://douglangille.github.io/assets/images/tumblr_mh9makYGXf1rlipfwo1_1280.png">I enjoyed a day off and accomplished very little.
 
 I did finally get around to buying a pull-up bar.
 

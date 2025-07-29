@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/4297653599_5d435cf261_b_peggy-cove.jpg">"Damn," Marnie said as she pulled over onto the icy soft-shoulder and got out, leaving the car running but the door ajar. The beep-beeping cut through me like knives. I watched as my sister grabbed a handful of frozen snow and washed the road salt from the windshield. Satisfied, she clapped her mitts together and climbed back inside and slammed the door a little too hard for my liking. The heat hit me in the face as she pulled away and I felt slightly nauseous.
+<img src="https://douglangille.github.io/assets/images/4297653599_5d435cf261_b_peggy-cove.jpg">"Damn," Marnie said as she pulled over onto the icy soft-shoulder and got out, leaving the car running but the door ajar. The beep-beeping cut through me like knives. I watched as my sister grabbed a handful of frozen snow and washed the road salt from the windshield. Satisfied, she clapped her mitts together and climbed back inside and slammed the door a little too hard for my liking. The heat hit me in the face as she pulled away and I felt slightly nauseous.
 
 "I told you to stop back in Timberlea for washer fluid," I said, irritated. "Why won't you tell me where we're going?"
 

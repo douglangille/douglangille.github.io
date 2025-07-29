@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/IMG_20140408_195258.jpg">Writers, like many artisans, love to talk about the tools and techniques of their trade. Honing and tweaking their systems becomes a near-obsession in itself.
+<img src="https://douglangille.github.io/assets/images/IMG_20140408_195258.jpg">Writers, like many artisans, love to talk about the tools and techniques of their trade. Honing and tweaking their systems becomes a near-obsession in itself.
 
 I asked a number of writers their opinions on what they use and received no shortage of information.
 

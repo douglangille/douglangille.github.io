@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/4949129334_4de1a73374_b_falling-star.jpg">Martha woke from her terrible dream with the chills. She was having the same dream that she'd been having ever since the confirmed diagnosis two years ago. She was barren and would never be able to carry. There would never be the pitter-patter of young feet to be heard in this old farmhouse. Adoption wasn't in the cards. It would always be just her and her husband. In her nightmare, he left her. She would live and die utterly alone, with not a single mark to make along God's path.
+<img src="https://douglangille.github.io/assets/images/4949129334_4de1a73374_b_falling-star.jpg">Martha woke from her terrible dream with the chills. She was having the same dream that she'd been having ever since the confirmed diagnosis two years ago. She was barren and would never be able to carry. There would never be the pitter-patter of young feet to be heard in this old farmhouse. Adoption wasn't in the cards. It would always be just her and her husband. In her nightmare, he left her. She would live and die utterly alone, with not a single mark to make along God's path.
 
 It wasn't true, of course. Martha's waking mind knew that. He was good to her. Even though they talked excitably in their early days of a brawny son or fetching daughter, he didn't hold it against her. Yes, he was a good man. Not perfect by any stretch, but a good honest man.
 

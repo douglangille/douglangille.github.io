@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/6070789725_4abccfc4a2_b_rabbits-kittens.jpg">So, I was in a meeting yesterday. We were embroiled in heated discourse over project planning and scenario discovery around a frankenbuilt technology solution that really needed the business-side addressed first. Again.
+<img src="https://douglangille.github.io/assets/images/6070789725_4abccfc4a2_b_rabbits-kittens.jpg">So, I was in a meeting yesterday. We were embroiled in heated discourse over project planning and scenario discovery around a frankenbuilt technology solution that really needed the business-side addressed first. Again.
 
 What came out of my mouth at one point was: "there are many ways to slice this cat". Strangely, everyone else in the room cringed, not at the mixed metaphor, but with the visual image of a thinly-sliced feline (probably arranged on a platter with parsley as garnish).
 

@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/922864_10151667671914602_1694026713_n_1.jpg">When I was in Grade Ten, I performed in a one act play. I can't, for the life of me, remember what it was called. Checks Google. It was called '<a href="http://www.samuelfrench.com/p/1409/he-done-her-wrong-or-wedded-but-no-wife">He Done Her Wrong</a>' by Anita Bell. Thank you, Google. All hail.
+<img src="https://douglangille.github.io/assets/images/922864_10151667671914602_1694026713_n_1.jpg">When I was in Grade Ten, I performed in a one act play. I can't, for the life of me, remember what it was called. Checks Google. It was called '<a href="http://www.samuelfrench.com/p/1409/he-done-her-wrong-or-wedded-but-no-wife">He Done Her Wrong</a>' by Anita Bell. Thank you, Google. All hail.
 
 Anyway, it was a melodrama full of all the classic tropes. I played a villain called Fleetwood Dashaway. Complete with tophat, cape and twirly moustashe. He was a very fun character to play, equally shallow and cardboardy as the rest of the cast. It worked because of its nostalgic approach to vaudeville theater.
 

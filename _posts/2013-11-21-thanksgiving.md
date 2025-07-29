@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg">"Good man, where might I find your nearest mooring dock?"
+<img src="https://douglangille.github.io/assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg">"Good man, where might I find your nearest mooring dock?"
 
 "No mooring dock."
 

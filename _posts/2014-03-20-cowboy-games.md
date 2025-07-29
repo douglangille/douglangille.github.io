@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg">The Cedarwood Home for the Elderly stood at the end of a dead-end street in a rotting borough of a dying town, an apt image not lost on the staff and residents--- well, some of them anyway. The arrivals came in minivans full of harried and frenzied families. The departures left in black station-wagons where the back seats were always quiet. The visitors' lots grew weeds from disuse.
+<img src="https://douglangille.github.io/assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg">The Cedarwood Home for the Elderly stood at the end of a dead-end street in a rotting borough of a dying town, an apt image not lost on the staff and residents--- well, some of them anyway. The arrivals came in minivans full of harried and frenzied families. The departures left in black station-wagons where the back seats were always quiet. The visitors' lots grew weeds from disuse.
 
 Eileen taught grade school for forty years before retiring and within two years her son, David, dropped her off with a peck on her cheek. He visited often at first, then rare phone calls, and finally silence. She wished him a happy life, but loneliness crept in to her days. She slept those away and enjoyed the nights instead.
 

@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/e835b00821f2053ecd0b470de7444e90fe76e6d01db512489df7c0_640_arizona.jpg">The thing I'll always remember about Uncle Mort, is his penchant for holding a conversation with anyone about anything. It didn't matter your economic station, your cultural background or even whether you were just a kid who thought he knew everything. Chewing the fat with Uncle Mort was authentic--- as authentic as it gets. He'd not just talk, but listen--- truly listen. He'd take in what you said, ponder it carefully and reply with considered ideas and thoughtful insight. The topic didn't matter: politics, religion, gadgetry, and even simply how to get along with other people.
+<img src="https://douglangille.github.io/assets/images/e835b00821f2053ecd0b470de7444e90fe76e6d01db512489df7c0_640_arizona.jpg">The thing I'll always remember about Uncle Mort, is his penchant for holding a conversation with anyone about anything. It didn't matter your economic station, your cultural background or even whether you were just a kid who thought he knew everything. Chewing the fat with Uncle Mort was authentic--- as authentic as it gets. He'd not just talk, but listen--- truly listen. He'd take in what you said, ponder it carefully and reply with considered ideas and thoughtful insight. The topic didn't matter: politics, religion, gadgetry, and even simply how to get along with other people.
 
 When you chatted with Uncle Mort, you mattered.
 

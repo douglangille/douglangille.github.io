@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/cloud-computing-626252_1280.png">As has become obvious over the last couple of years, higher education has to move past the firewall and traditional computing services such as the "alphabet soup" that comes with campus file/print servers and a sprawling enterprise fleet of desktops.
+<img src="https://douglangille.github.io/assets/images/cloud-computing-626252_1280.png">As has become obvious over the last couple of years, higher education has to move past the firewall and traditional computing services such as the "alphabet soup" that comes with campus file/print servers and a sprawling enterprise fleet of desktops.
 
 Learners often provide their own laptops and netbooks --- Internet connectivity to the home is nearly as assumed a technology as the telephone.
 

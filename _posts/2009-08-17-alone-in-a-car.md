@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/autoradio-278132_1280.jpg">Barreling down the highway at dusk with the windows down, enjoying the cooling air and screaming to some rock classics on the radio.
+<img src="https://douglangille.github.io/assets/images/autoradio-278132_1280.jpg">Barreling down the highway at dusk with the windows down, enjoying the cooling air and screaming to some rock classics on the radio.
 
 The simple pleasures of life:
 

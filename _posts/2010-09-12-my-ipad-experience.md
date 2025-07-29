@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/e835b10b29f7033ecd0b470de7444e90fe76e6d01cb5104291f1c7_640_ipad.jpg">Everyone and their cat, it seems, has done an iPad review. I got my hands on a few of these through work as my teams needed to get a handle on what was already becoming a demanding requirement --- both at the systems layer and in end-user support.
+<img src="https://douglangille.github.io/assets/images/e835b10b29f7033ecd0b470de7444e90fe76e6d01cb5104291f1c7_640_ipad.jpg">Everyone and their cat, it seems, has done an iPad review. I got my hands on a few of these through work as my teams needed to get a handle on what was already becoming a demanding requirement --- both at the systems layer and in end-user support.
 
 Like most organizations, the management tier react fervently to the Apple buzz-o-matic marketing machine. I'm no exception --- As soon as I touched one, I just plain wanted it for no good reason that I could identify. Good thing I had a legitimate business case. *whew*
 

@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/2245362817_2cd6b263af_caveman.jpg">So this morning, I weigh 231 pounds. That's up one pound from last month. March sucked in many ways, and strict adherence to my plan was among them. But, hey ---
+<img src="https://douglangille.github.io/assets/images/2245362817_2cd6b263af_caveman.jpg">So this morning, I weigh 231 pounds. That's up one pound from last month. March sucked in many ways, and strict adherence to my plan was among them. But, hey ---
 
 Life happens.
 

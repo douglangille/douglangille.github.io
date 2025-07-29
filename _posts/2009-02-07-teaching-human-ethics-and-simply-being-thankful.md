@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/5180726549_d4769971f3_b_ethics.jpg">I was talking with a co-worker this morning --- that kind of cubicle chatter that usually starts any given day. He was sharing a story about the appropriateness of demonstrating thankfulness and its (possible) religious implications.
+<img src="https://douglangille.github.io/assets/images/5180726549_d4769971f3_b_ethics.jpg">I was talking with a co-worker this morning --- that kind of cubicle chatter that usually starts any given day. He was sharing a story about the appropriateness of demonstrating thankfulness and its (possible) religious implications.
 
 At his kid's daycare, they gather the children together at lunch time, have them sit quietly for about 30 seconds, fold their hands and say "thanks".
 

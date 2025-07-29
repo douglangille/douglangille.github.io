@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/10248755515_17ac421dea_b_productivity.jpg">I get a kick out of the anti-productivity backlash out there. There's a lot of good dialog on the subject but it seeds doubt and uncertainty. I'm not sure if all this navel gazing is getting anything done.
+<img src="https://douglangille.github.io/assets/images/10248755515_17ac421dea_b_productivity.jpg">I get a kick out of the anti-productivity backlash out there. There's a lot of good dialog on the subject but it seeds doubt and uncertainty. I'm not sure if all this navel gazing is getting anything done.
 
 Anyway, I struggle with my own "system" because I haven't made it mine yet. I don't own it. None of the formal setups out there ring true to me. None of them are sustainable for me. None of them are instinctual and not one of them stick as a good habit.
 

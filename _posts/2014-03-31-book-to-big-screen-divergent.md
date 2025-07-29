@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/tumblr_inline_n39pzheZq31srt9b2.jpg">I've always been a fan of dystopian fiction. I remember one of my first experiences was with John Wyndham's '<a href="http://en.wikipedia.org/wiki/The_Chrysalids">The Chyrsalids</a>'. From that point on, I was hooked. I'm also a fan of young adult fiction. Some of the most inventive genre-bending plots and characters come from these stories. 
+<img src="https://douglangille.github.io/assets/images/tumblr_inline_n39pzheZq31srt9b2.jpg">I've always been a fan of dystopian fiction. I remember one of my first experiences was with John Wyndham's '<a href="http://en.wikipedia.org/wiki/The_Chrysalids">The Chyrsalids</a>'. From that point on, I was hooked. I'm also a fan of young adult fiction. Some of the most inventive genre-bending plots and characters come from these stories. 
 
 Still, things can be overdone and I was weary from Twilight, Harry Potter and the Hunger Games. Don't get me wrong. I enjoyed all of these immensely, but when I heard of Divergent, I stifled a groan.
 

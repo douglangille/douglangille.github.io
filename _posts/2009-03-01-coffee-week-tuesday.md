@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20090303-063251.jpg">While attending university in Antigonish, I stayed with my grandparents. My grandmother had founded a little restaurant across the street called the Cottage Store that served the local students. But, when I was there, the store was run by my uncle as my grandmother was older and bound to a wheelchair because of bad hips and ulcerated legs. So I stayed with her, cooked meals and kept her company while enjoying college life.
+<img src="https://douglangille.github.io/assets/images/20090303-063251.jpg">While attending university in Antigonish, I stayed with my grandparents. My grandmother had founded a little restaurant across the street called the Cottage Store that served the local students. But, when I was there, the store was run by my uncle as my grandmother was older and bound to a wheelchair because of bad hips and ulcerated legs. So I stayed with her, cooked meals and kept her company while enjoying college life.
 
 She had an oil range in the kitchen upon which she always kept a percolator full of coffee. As the day wore on she'd just add water to the pot. When she turned the range off at night, the pot was left to cool.
 

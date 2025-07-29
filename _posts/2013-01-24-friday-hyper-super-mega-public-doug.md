@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/tumblr_mh7p627DkN1rlipfwo1_1280.png">Breakfast and supper were both skillet meals. Hot food on a cold day FTW!
+<img src="https://douglangille.github.io/assets/images/tumblr_mh7p627DkN1rlipfwo1_1280.png">Breakfast and supper were both skillet meals. Hot food on a cold day FTW!
 
 Another 5km walking day to/from work. I also managed to get in 3 circuits while making breakfast.
 

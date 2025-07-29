@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/4940893730_ce74d18852_b.jpg">"Is this Douglas Langille?"
+<img src="https://douglangille.github.io/assets/images/4940893730_ce74d18852_b.jpg">"Is this Douglas Langille?"
 
 "Yes, it is. How did you know? I called you?"
 

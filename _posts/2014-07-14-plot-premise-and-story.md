@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/7318739b107b8fcc_1280_navigation-compass.jpg">We've all been there: staring at the screen or notebook wondering how to write the middle of your story. You've built a wonderful world and crafted some deep characters. You might even have done a great job at setting the stage and have a great idea on where you want to end up. You've written down a few scenes and they are glorious. But still the flashing cursor looms.
+<img src="https://douglangille.github.io/assets/images/7318739b107b8fcc_1280_navigation-compass.jpg">We've all been there: staring at the screen or notebook wondering how to write the middle of your story. You've built a wonderful world and crafted some deep characters. You might even have done a great job at setting the stage and have a great idea on where you want to end up. You've written down a few scenes and they are glorious. But still the flashing cursor looms.
 
 This is what happens to pantsers, mistaking premise for plot. I am one of them. We are Legion.
 

@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/ea3db30920f21c3e81584d04ee44408be273e7d01db6194895f7_640_carrots.jpg">I find that partisanship is generally quite disruptive be it political, social or even the most mundane hair-splitting.
+<img src="https://douglangille.github.io/assets/images/ea3db30920f21c3e81584d04ee44408be273e7d01db6194895f7_640_carrots.jpg">I find that partisanship is generally quite disruptive be it political, social or even the most mundane hair-splitting.
 
 By and large, polarized political and religious alignment is artificially banal at best and manufactured manipulation at its worst. Rarely is it helpful and is often dangerous and needlessly pointless in its divisiveness. However, it can be rather entertaining if you don't get too wrapped up in it --- too invested in any particular viewpoint.
 

@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/cb9ac1c059da795c_640_typewriter.png">Let me tell you a story.
+<img src="https://douglangille.github.io/assets/images/cb9ac1c059da795c_640_typewriter.png">Let me tell you a story.
 
 When I was in high school, I remember when typewriters became computers and document processing a la touch typing became the darling-do.
 

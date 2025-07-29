@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20150620_175930485_iOS.jpg" alt="" />
+<img src="https://douglangille.github.io/assets/images/20150620_175930485_iOS.jpg" alt="" />
 
 Last week, I spent my time with my best gal in Massachusetts. We're both interested in maritime and colonial lore, so we set up camp in Danvers on the north-side of the state... cheaper hotel rates and within driving distance to wherever we chose.
 
@@ -19,7 +19,7 @@ Our first stop was the Salem Visitors Center. At the booth was this tiny old guy
 
 It was mid-morning, so we opted for a more historical approach to Salem. There would be time enough to get our witch on later.
 
-<a href="/assets/images/20150623_143625508_iOS1-225x300.jpg"><img class="alignright wp-image-3806 size-medium" src="/assets/images/20150623_143625508_iOS1-225x300.jpg" alt="" /></a>
+<a href="/assets/images/20150623_143625508_iOS1-225x300.jpg"><img class="alignright wp-image-3806 size-medium" src="https://douglangille.github.io/assets/images/20150623_143625508_iOS1-225x300.jpg" alt="" /></a>
 
 Bob took out a map and ran off his spiel about the must-see destinations. Little of what he talked about was about the Salem we knew of. Intriguing. Even the Witch Trial stuff he directed us towards was less sensational in nature.
 
@@ -27,7 +27,7 @@ So off we went. It's a quite walkable town and we started with visiting the memo
 
 As we strolled downtown, what struck us was the singularity of purpose with which Salem's entrepreneurs approached their enterprises. It was a perpetual state of Halloween. Kinda like Groundhog Day. Witch Museum, Witch Dungeon, Witch House, Tarot, Psychic Readings. You couldn't swing a dead cat without hitting something related to witchery.
 
-<a href="/assets/images/20150620_170011627_iOS-300x225.jpg"><img class="alignleft wp-image-3756 size-medium" src="/assets/images/20150620_170011627_iOS-300x225.jpg" alt="20150620_170011627_iOS" /></a>
+<a href="/assets/images/20150620_170011627_iOS-300x225.jpg"><img class="alignleft wp-image-3756 size-medium" src="https://douglangille.github.io/assets/images/20150620_170011627_iOS-300x225.jpg" alt="20150620_170011627_iOS" /></a>
 
 We made our way to the Witch's Brew for some lunch, then down to the House of the Seven Gables and learned all about the Scarlet Letter's author, Nathaniel Hawthorne. Bob said it was top of the list and I don't disagree.
 
@@ -38,7 +38,7 @@ Another stop we made was to the Custom House where a National Parks guy named Ke
 	<li>Hawthorne was a grumpy guy who worked the Custom House before becoming a writer.</li>
 	<li>Salem is responsible for cheap black pepper because of a poor understanding of supply-and-demand.</li>
 </ul>
-<a href="/assets/images/20150620_175912683_iOS-300x225.jpg"><img class="alignright wp-image-3757 size-medium" src="/assets/images/20150620_175912683_iOS-300x225.jpg" alt="20150620_175912683_iOS" /></a>
+<a href="/assets/images/20150620_175912683_iOS-300x225.jpg"><img class="alignright wp-image-3757 size-medium" src="https://douglangille.github.io/assets/images/20150620_175912683_iOS-300x225.jpg" alt="20150620_175912683_iOS" /></a>
 
 Our next sojourn into Salem also began with a visit with Bob. Armed with some knowledge and a mitt-full of pamphlets, we picked our way through the <del>tourist-traps</del> museums.
 <ul>

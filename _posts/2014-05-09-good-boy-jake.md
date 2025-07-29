@@ -7,7 +7,7 @@ categories:
 tags:
   - Poetry
 ---
-<img src="/assets/images/32221740_530a3d192c_b.jpg">Rod in hand, I went to the lake,  
+<img src="https://douglangille.github.io/assets/images/32221740_530a3d192c_b.jpg">Rod in hand, I went to the lake,  
  To fish for trout with my dog Jake.  
  I cast my line, it went plop-plop.  
  We waited for nature's wat'ry crop.

@@ -7,7 +7,7 @@ categories:
 tags:
   - Poetry
 ---
-<img src="/assets/images/14766263401_27a615d196_ides-march-calendar.jpg">Three great days in March  
+<img src="https://douglangille.github.io/assets/images/14766263401_27a615d196_ides-march-calendar.jpg">Three great days in March  
  Fourteen, Sixteen, Seventeen  
  Pi, John and Patrick
 

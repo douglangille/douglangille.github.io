@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/IMG_20140511_133123.jpg">*In <a href="/may-reflections-8211-part-one/">Part One of my May Reflection series</a>, I played philosopher around positivity, intention and the Golden Rule. Really, paying yourself by 'paying-it-forward'. Yada-yada. Today, I want to share two very different experiences. I'll stitch the ideas together in Part Three.*
+<img src="https://douglangille.github.io/assets/images/IMG_20140511_133123.jpg">*In <a href="/may-reflections-8211-part-one/">Part One of my May Reflection series</a>, I played philosopher around positivity, intention and the Golden Rule. Really, paying yourself by 'paying-it-forward'. Yada-yada. Today, I want to share two very different experiences. I'll stitch the ideas together in Part Three.*
 
 Last Saturday, I tested myself with the <a href="http://ecoendurancechallenge.ca/">Eco-Endurance Challenge</a>. It was hard. I hadn't been orienteering in 20 years and I felt the sum of my years and weight of my girth.  We clambered over deadfalls and clearcuts. We tromped across mossy boulder fields and boggy marsh. We did battle against the snarling tangle of landkill and scrub-brush. Our team visited 9 of the 60 Control Points in the 8-hours, finishing 17th of 30 in our category.
 

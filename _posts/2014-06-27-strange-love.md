@@ -5,7 +5,7 @@ categories:
 tags:
   - Poetry
 ---
-<img src="/assets/images/2535792133_23d929a8a7_b.jpg">There once was a lady, hailing from the circus  
+<img src="https://douglangille.github.io/assets/images/2535792133_23d929a8a7_b.jpg">There once was a lady, hailing from the circus  
  Whose beard was so long, she would curse it  
  But there was something about her  
  I was smitten, her lover  

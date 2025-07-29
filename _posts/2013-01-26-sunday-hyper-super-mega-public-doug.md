@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/tumblr_mhbgll9tk41rlipfwo1_1280.png">Another day down. Went to a friend's place for supper and enjoyed some tasty Mediterranean fare. I ate a little more lightly during the day to ensure that I could be comfortable with a plate I didn't prepare.
+<img src="https://douglangille.github.io/assets/images/tumblr_mhbgll9tk41rlipfwo1_1280.png">Another day down. Went to a friend's place for supper and enjoyed some tasty Mediterranean fare. I ate a little more lightly during the day to ensure that I could be comfortable with a plate I didn't prepare.
 
 The red wine was a nice treat.
 

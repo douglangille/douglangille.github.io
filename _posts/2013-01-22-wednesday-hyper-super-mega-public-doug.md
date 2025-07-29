@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/tumblr_mh3wtd6xcf1rlipfwo1_1280.png">I made a goulash for the family this evening and put some meat and veggies aside. They had theirs with macaroni and tomato soup. To mine I added some pasta sauce, scrambled it with some eggs and baked it in the oven for a few minutes to crisp the cheese.
+<img src="https://douglangille.github.io/assets/images/tumblr_mh3wtd6xcf1rlipfwo1_1280.png">I made a goulash for the family this evening and put some meat and veggies aside. They had theirs with macaroni and tomato soup. To mine I added some pasta sauce, scrambled it with some eggs and baked it in the oven for a few minutes to crisp the cheese.
 
 I also had a tomato, cucumber and cheese lettuce wrap in the evening to banish the growlies.
 

@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/5923105171_90007ff833_cat-mouse.jpg">Missy's moon shadow cast long, tail twitching in anticipation; the taste of freshly killed squirrel electrified her whiskers. She named her quarry Nemesis.
+<img src="https://douglangille.github.io/assets/images/5923105171_90007ff833_cat-mouse.jpg">Missy's moon shadow cast long, tail twitching in anticipation; the taste of freshly killed squirrel electrified her whiskers. She named her quarry Nemesis.
 
 He crouched under the garden marigolds. The cat locked her radar on him, sharpened front toes splayed and hind quarters raised. Carmilla played witness from her web.
 

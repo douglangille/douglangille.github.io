@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/e137b90929f51c3e81584d04ee44408be273e7d11db7184396f6_640_calenar.jpg">April is a nice square looking month this year --- starts on a Sunday and all that. April Fools Day makes as great a New Year as anything for resolutions.
+<img src="https://douglangille.github.io/assets/images/e137b90929f51c3e81584d04ee44408be273e7d11db7184396f6_640_calenar.jpg">April is a nice square looking month this year --- starts on a Sunday and all that. April Fools Day makes as great a New Year as anything for resolutions.
 
 So here's mine: starting today for the next 30 days, I have banished all flour and added-sugar from my diet. It's not quite Paleo, but it's a big enough step in that direction for me at this time.
 

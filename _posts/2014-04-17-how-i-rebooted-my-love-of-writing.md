@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/Writing_by_after_the_party.jpg">Way back in January of 2013, <a href="http://blog.douglangille.ca/post/39437281774/the-clock-is-running-make-the-most-of-today-time">I made a promise to myself</a> to pick up my quill and start writing creatively again.
+<img src="https://douglangille.github.io/assets/images/Writing_by_after_the_party.jpg">Way back in January of 2013, <a href="http://blog.douglangille.ca/post/39437281774/the-clock-is-running-make-the-most-of-today-time">I made a promise to myself</a> to pick up my quill and start writing creatively again.
 
 In high school and university, I took to crafting stories, poems and plays with gusto, but had no intention of pursuit past leisurely escape. Life happened, and like so many early ambitions, I stopped listening to my muse.
 

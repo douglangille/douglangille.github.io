@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/IMG_20140521_174907_hdr.jpg">Oh, this is going to be fun! A couple of months ago I wrote '<a href="/not-so-definitive-guide-to-romance-novels/">The (Not So) Definitive Guide to Romance Novels</a>' for Reader's Carnival . It got me to thinking (I know, a dangerous thing):
+<img src="https://douglangille.github.io/assets/images/IMG_20140521_174907_hdr.jpg">Oh, this is going to be fun! A couple of months ago I wrote '<a href="/not-so-definitive-guide-to-romance-novels/">The (Not So) Definitive Guide to Romance Novels</a>' for Reader's Carnival . It got me to thinking (I know, a dangerous thing):
 
 What is the difference between a romance novel, erotica and outright porn? Is it simply age group boundaries? Explicitness versus love? Where are the boundaries? Has this changed over time? Putting quality aside, what separates Danielle Steel from E.L. James?
 

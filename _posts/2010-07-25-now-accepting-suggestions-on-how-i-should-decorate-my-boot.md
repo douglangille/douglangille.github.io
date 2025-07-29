@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/tumblr_mfb74tMmP61rlipfwo1.jpg">So, I slipped on the metal threshold of my front door while taking the garbage out. Wearing Crocs. In the rain.
+<img src="https://douglangille.github.io/assets/images/tumblr_mfb74tMmP61rlipfwo1.jpg">So, I slipped on the metal threshold of my front door while taking the garbage out. Wearing Crocs. In the rain.
 
 Several parts of my body impacted upon the metal railing with all due force expected of a man of my girth falling whilst flailing his black-bag laden arms. My ear is sore and I got a nasty bruise, but the outside of my left foot took the brunt.
 

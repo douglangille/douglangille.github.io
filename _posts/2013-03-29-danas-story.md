@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/63224608_b2dd0efea4_b_campfire.jpg">**PRIM**
+<img src="https://douglangille.github.io/assets/images/63224608_b2dd0efea4_b_campfire.jpg">**PRIM**
 
 "I have something to tell you", said Dana quietly, barely audible.
 

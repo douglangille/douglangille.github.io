@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/e834b70f2af2003ecd0b470de7444e90fe76e6d01db5144292f8c3_640_cold.jpg">As of this morning:
+<img src="https://douglangille.github.io/assets/images/e834b70f2af2003ecd0b470de7444e90fe76e6d01db5144292f8c3_640_cold.jpg">As of this morning:
 
 <ul>
   <li>Weight: 234 lbs</li>

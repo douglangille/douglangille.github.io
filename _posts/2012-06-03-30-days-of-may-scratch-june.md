@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/e036b20c2ffc1c3e81584d04ee44408be273e7d11db7184591f7_640_flour.jpg">I'm a little late with this entry --- it's been a crazy month and a tumultuous week or so.
+<img src="https://douglangille.github.io/assets/images/e036b20c2ffc1c3e81584d04ee44408be273e7d11db7184591f7_640_flour.jpg">I'm a little late with this entry --- it's been a crazy month and a tumultuous week or so.
 
 I'm a little disappointed with the results of my <a href="http://blog.douglangille.ca/2012/04/30-day-challenge-aprils-done-mays-begun.html" target="_blank">May challenge</a>: morning cardio, old-skool exercises and evening dog-walking. In hindsight, this was probably too aggressive.
 

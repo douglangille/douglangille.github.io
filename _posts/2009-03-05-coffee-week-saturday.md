@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20090307-134024.jpg">Happy Caturday!
+<img src="https://douglangille.github.io/assets/images/20090307-134024.jpg">Happy Caturday!
 
 Blossom is the oldest of my cats at 14 summers.
 

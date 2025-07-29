@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/donation-517123_12801.jpg">Hunger and food insecurity in the western world is not a new problem.
+<img src="https://douglangille.github.io/assets/images/donation-517123_12801.jpg">Hunger and food insecurity in the western world is not a new problem.
 
 <span class="embed-youtube" style="text-align:center; display: block;"></span>
 

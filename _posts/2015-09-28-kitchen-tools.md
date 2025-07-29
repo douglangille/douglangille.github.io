@@ -5,7 +5,7 @@ header:
 categories:
   - Writings
 ---
-<img src="/assets/images/9464995143_626fb980cd_b.jpg">"But what if I hold it like this?" asked Eunice.
+<img src="https://douglangille.github.io/assets/images/9464995143_626fb980cd_b.jpg">"But what if I hold it like this?" asked Eunice.
 
 "Try it," I said. There was only one way to learn. Our lives depended on it.
 

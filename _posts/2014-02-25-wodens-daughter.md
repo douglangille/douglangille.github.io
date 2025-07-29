@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/precipice_by_machelko.jpg">The Allfather's daughter, shame of Asgard, fled the Great Hall and made her way through the wood to the cliff-side. There, she gathered her furs about her shoulders and waited.  Brynhildr wiped her tears away and closed her eyes to the wind off the sea. He would come, she thought. Loki always did.
+<img src="https://douglangille.github.io/assets/images/precipice_by_machelko.jpg">The Allfather's daughter, shame of Asgard, fled the Great Hall and made her way through the wood to the cliff-side. There, she gathered her furs about her shoulders and waited.  Brynhildr wiped her tears away and closed her eyes to the wind off the sea. He would come, she thought. Loki always did.
 
 The moon rose over the ocean and she remained, her limbs numb yet her anger coursing through her. How could Woden condemn her, his own daughter? Had she not yet proven time and time again her worth as warrior? Brynhildr, born a shieldmaiden to Frigga, knew no other life, and to be cast aside as having no value was offensive. Given the choice, her mother chose consort instead.
 

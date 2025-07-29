@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/2227797968_278063879c_six-shooter.jpg">Billy: Ya rascally varmit, git back here!  
+<img src="https://douglangille.github.io/assets/images/2227797968_278063879c_six-shooter.jpg">Billy: Ya rascally varmit, git back here!  
  Davey: Who's gonna make me?  
  Tommy: That'd be me.  
  Billy: With what, yer lady's ladel?  

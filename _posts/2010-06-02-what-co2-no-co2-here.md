@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/9VN9Q.jpg">One week later and I still can't let this one go.
+<img src="https://douglangille.github.io/assets/images/9VN9Q.jpg">One week later and I still can't let this one go.
 
 I was listening to CBC radio on the way home last Friday. They were talking about the recent NDP commitment to make Nova Scotia's power system greener by 2020. The specifics are typically nebulous with pretty loosey-goosey terms of reference. Who knows what the actual plan will come out of it. Politics. Ugh.
 

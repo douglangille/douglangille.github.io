@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/tumblr_inline_mfb3v9OFxs1rabiuj.jpg">It's official.
+<img src="https://douglangille.github.io/assets/images/tumblr_inline_mfb3v9OFxs1rabiuj.jpg">It's official.
 
 I've lost 50 pounds since April 1st, 75 pounds in total from my heaviest.
 

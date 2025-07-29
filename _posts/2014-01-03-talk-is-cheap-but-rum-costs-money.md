@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/ea35b20b2ef01c3e81584d04ee44408be273e7d11db5124096f3_640_rum.jpg">Today is the last day of my vacation. I am very fortunate to work for an organization that allows for a goodsome break. Tomorrow, I'll be back to toiling in a turbulent tempest of tumultuous turmoil. Not really. I like my job and the people I work with. There are some large scopes of project work in the hopper to keep me busy. Busy is good, because the winter is long.
+<img src="https://douglangille.github.io/assets/images/ea35b20b2ef01c3e81584d04ee44408be273e7d11db5124096f3_640_rum.jpg">Today is the last day of my vacation. I am very fortunate to work for an organization that allows for a goodsome break. Tomorrow, I'll be back to toiling in a turbulent tempest of tumultuous turmoil. Not really. I like my job and the people I work with. There are some large scopes of project work in the hopper to keep me busy. Busy is good, because the winter is long.
 
 I packed on a few pounds in December, making this a pretty significant stumble in my journey to good health. I stared at the scale on Friday in frustration as it read 253. How does one gain 15 pounds in a month? There's no big mystery, of course. About the only thing I didn't cram in to my maw was bread and pasta. Everything else was fair game. My sloth-like behavior of the last two-weeks didn't help. Forget about not being able to outrun my fork; I'd have to work to catch up.
 

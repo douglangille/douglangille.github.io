@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20090426-075935.jpg">It was a nice fresh morning and I was up early as usual so I took Sheba down to the lake.
+<img src="https://douglangille.github.io/assets/images/20090426-075935.jpg">It was a nice fresh morning and I was up early as usual so I took Sheba down to the lake.
 
 No ducks were harmed.
 

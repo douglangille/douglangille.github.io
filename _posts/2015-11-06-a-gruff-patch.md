@@ -5,7 +5,7 @@ header:
 categories:
   - Writings
 ---
-<img src="/assets/images/Three-Goats.jpg">Bruno Gruff scratched his flea-bitten crotch and stared out the window. His brothers, Barney and Buford, bickered over the last patch of swamp grass. He sniffed his hoof and winced before heading out the door.
+<img src="https://douglangille.github.io/assets/images/Three-Goats.jpg">Bruno Gruff scratched his flea-bitten crotch and stared out the window. His brothers, Barney and Buford, bickered over the last patch of swamp grass. He sniffed his hoof and winced before heading out the door.
 
 "Hey, idjits!" he said and threw a rock in their general direction. It bounced off Buford's head.
 

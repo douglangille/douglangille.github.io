@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/447c7e97ca6778a6_1280_jail.jpg">I sat on the steel cot and stared at the three other people in with me: the chick and two dudes. She was throwing up. One of the guys laid passed out on the floor near her, oblivious to the splatter. The other guy sat beside me and chewed his fingernails. He smelled like cheap booze, shit and body odor. I recognized him from the table earlier. It was strange to see him animated. We'd both thought him dead. He sure smelled like it.
+<img src="https://douglangille.github.io/assets/images/447c7e97ca6778a6_1280_jail.jpg">I sat on the steel cot and stared at the three other people in with me: the chick and two dudes. She was throwing up. One of the guys laid passed out on the floor near her, oblivious to the splatter. The other guy sat beside me and chewed his fingernails. He smelled like cheap booze, shit and body odor. I recognized him from the table earlier. It was strange to see him animated. We'd both thought him dead. He sure smelled like it.
 
 Yup, this was my favorite place to be. I stood and paced the front of the drunk tank like a caged animal. Where the Hell was Jimmy?
 

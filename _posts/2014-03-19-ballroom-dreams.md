@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png">I entered the ballroom and searched for her in a sea of gowns and tuxedo. I had to find her, to touch her. All these masks! The ladies looked like angels floating across the floor like visions of light and color. The men pranced around in their feathered cowls, displaying their plumage.
+<img src="https://douglangille.github.io/assets/images/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png">I entered the ballroom and searched for her in a sea of gowns and tuxedo. I had to find her, to touch her. All these masks! The ladies looked like angels floating across the floor like visions of light and color. The men pranced around in their feathered cowls, displaying their plumage.
 
 A tray of champagne appeared; I gathered two glasses as I spied my heaven-sent. She glanced my way and I say her eyes sparkle as she winked before replacing her mask.
 

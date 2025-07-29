@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/tumblr_inline_n1kskavW0g1srt9b2.jpg">Some of the best memories of my grandfather are of Robert W. Service. Gramp would, at every opportunity, recite from memory any number of poems. We'd goad him to keep going, verse after verse, sometimes for hours. With the cadence and ease of a master storyteller, he'd entertain and love every minute of it. The sparkle in his eye when he had you in his spell makes me smile.
+<img src="https://douglangille.github.io/assets/images/tumblr_inline_n1kskavW0g1srt9b2.jpg">Some of the best memories of my grandfather are of Robert W. Service. Gramp would, at every opportunity, recite from memory any number of poems. We'd goad him to keep going, verse after verse, sometimes for hours. With the cadence and ease of a master storyteller, he'd entertain and love every minute of it. The sparkle in his eye when he had you in his spell makes me smile.
 
 My grandfather lived a full life, worked hard and loved his family. He discovered the words of Robert Service while working in the woods and identified with the bard.
 

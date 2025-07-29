@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/15454559789_57382091a0_groucho.jpg">Cash for 'stache?
+<img src="https://douglangille.github.io/assets/images/15454559789_57382091a0_groucho.jpg">Cash for 'stache?
 
 Keeping it simple folks. Movember is a great awareness campaign for improving men's health.
 

@@ -5,7 +5,7 @@ header:
 categories:
   - Writings
 ---
-<img src="/assets/images/earth-244238_1280.jpg" />
+<img src="https://douglangille.github.io/assets/images/earth-244238_1280.jpg" />
 
 That's how long
 it takes us

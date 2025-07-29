@@ -5,7 +5,7 @@ header:
 categories:
   - WriteTips
 ---
-<img src="/assets/images/war_of_the_worlds_by_jaime_jones.jpg" alt="" />
+<img src="https://douglangille.github.io/assets/images/war_of_the_worlds_by_jaime_jones.jpg" alt="" />
 
 Mars is the fourth planet from the sun and the second smallest. It is named after the Roman god of war. Then again, so is Tuesday.
 
@@ -15,7 +15,7 @@ Before Schiaparelli's observations of canals on Mars in the 19th century, most f
 
 Prior to our flyby in 1965 with the *Mariner 4*, most fiction focused on the creative idea of a populated Mars. It was exciting and frightening to think about little green men or worse.
 
-<img class="wp-image-4078 size-medium alignright" src="/assets/images/Marvin_the_Martian_2-255x300.png" alt="Marvin_the_Martian_2" />
+<img class="wp-image-4078 size-medium alignright" src="https://douglangille.github.io/assets/images/Marvin_the_Martian_2-255x300.png" alt="Marvin_the_Martian_2" />
 
 Notable works include:
 <ul>
@@ -26,11 +26,11 @@ Notable works include:
 	<li>1950 --- **The Martian Chronicles** by *Ray Bradbury* is an analogue for the colonization of the Americas where humans colonize Mars and war with the indigenous inhabitants.</li>
 	<li>1996 --- **Mars Attacks!**, a black comedy film by Tim Burton, stands as an excellent tribute to this era of fear about Martian Invaders. A worthy watch. Grab the popcorn.</li>
 </ul>
-<img class="size-full wp-image-4077 alignleft" src="/assets/images/mars-attacks-16.jpg" alt="mars-attacks-16" />
+<img class="size-full wp-image-4077 alignleft" src="https://douglangille.github.io/assets/images/mars-attacks-16.jpg" alt="mars-attacks-16" />
 
 After *Mariner*, most fiction about Mars centered around its identity as a desert planet, the prospect of water, and human colonization. In most of these stories, Martians are an ancient and extinct civilization. This has been buoyed by the orbital surveys and surface rovers that have explored Mars in the last twenty years.
 
-<img class="wp-image-4079 size-medium alignright" src="/assets/images/the_martian.93d47143244.original-197x300.jpg" alt="the_martian.93d47143244.original" />
+<img class="wp-image-4079 size-medium alignright" src="https://douglangille.github.io/assets/images/the_martian.93d47143244.original-197x300.jpg" alt="the_martian.93d47143244.original" />
 
 Some notable works:
 <ul>

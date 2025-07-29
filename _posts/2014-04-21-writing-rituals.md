@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/bath_time_rubber_ducky_by_CAPTAIN_VIOLENCE.jpg">Last week, I posed the following to my fellow writers:
+<img src="https://douglangille.github.io/assets/images/bath_time_rubber_ducky_by_CAPTAIN_VIOLENCE.jpg">Last week, I posed the following to my fellow writers:
 
 > 
   I do most of my creative writing soaking in a hot bath with my head immersed and my editing listening to metal dubstep trance. What are other people's writing rituals? What gets you in contact with your muse? What helps you get into a state of flow where time disappears? Curious minds want to know.

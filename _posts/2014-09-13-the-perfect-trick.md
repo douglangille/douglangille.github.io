@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/12-magic-tricks-rescan1.jpg">All eyes were either on Scott's hands or Amy's outfit. That was part of the hook. He'd fumble through the basic show tricks ably enough despite only picking up the magic book yesterday. Billie said he was a quick study and the proof stood up on stage.
+<img src="https://douglangille.github.io/assets/images/12-magic-tricks-rescan1.jpg">All eyes were either on Scott's hands or Amy's outfit. That was part of the hook. He'd fumble through the basic show tricks ably enough despite only picking up the magic book yesterday. Billie said he was a quick study and the proof stood up on stage.
 
 Scott's bit was distraction. If the Nugget job taught them anything, it was to keep Billie's brother on simple tasks, like charming an audience.
 

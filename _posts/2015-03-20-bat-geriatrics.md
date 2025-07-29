@@ -5,7 +5,7 @@ header:
 categories:
   - Writings
 ---
-<img src="/assets/images/batman-532919_1280.jpg">"Alfred! Get me my cowl."
+<img src="https://douglangille.github.io/assets/images/batman-532919_1280.jpg">"Alfred! Get me my cowl."
 
 "But, Master Bruce. You donated that to the museum years ago."
 

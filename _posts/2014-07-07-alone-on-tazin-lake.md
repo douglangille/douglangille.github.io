@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/IMG-20121020-00007.jpg">The Cessna's wings clipped the tops off several jack pine as it thundered through the brush on its way down. When it finally slammed to a stop, Gus unbuckled and clambered forward to check on Darren in the pilot's seat. His neck hung at a queer angle, but the tree branch protruding from his chest told the tale. His brother was dead.
+<img src="https://douglangille.github.io/assets/images/IMG-20121020-00007.jpg">The Cessna's wings clipped the tops off several jack pine as it thundered through the brush on its way down. When it finally slammed to a stop, Gus unbuckled and clambered forward to check on Darren in the pilot's seat. His neck hung at a queer angle, but the tree branch protruding from his chest told the tale. His brother was dead.
 
 They'd been flying north of Lake Athabaska across the smaller Tazin Lake to get a little fishing in. The lake's only lodge, a fly-in on the north shore, said the pike and trout fishing was the best in all Saskatchewan.
 

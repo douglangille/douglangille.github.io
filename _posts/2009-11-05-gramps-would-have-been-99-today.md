@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/zappino-1030047.jpg"><h2 id="the-song-of-the-wage-slave">The Song of the Wage-Slave</h2>
+<img src="https://douglangille.github.io/assets/images/zappino-1030047.jpg"><h2 id="the-song-of-the-wage-slave">The Song of the Wage-Slave</h2>
 
 When the long, long day is over, and the Big Boss gives me my pay,  
  I hope that it won't be hell-fire, as some of the parsons say.  

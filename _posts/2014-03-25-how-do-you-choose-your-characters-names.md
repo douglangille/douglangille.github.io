@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/IMG_20140326_200542.jpg">Here's a wide open topic:
+<img src="https://douglangille.github.io/assets/images/IMG_20140326_200542.jpg">Here's a wide open topic:
 
 Do you choose a character's name because it just sounds right or does it have to have meaning?
 

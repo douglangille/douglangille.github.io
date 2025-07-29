@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/ed35b20a20f11c3e81584d04ee44408be273e7d11db7184997f6_640_scale.jpg" alt="" />
+<img src="https://douglangille.github.io/assets/images/ed35b20a20f11c3e81584d04ee44408be273e7d11db7184997f6_640_scale.jpg" alt="" />
 
 One of <a href="http://douglangille.tumblr.com/post/20343384/doug-langilles-top-five-clifton-strengthsfinder-themes">my top strengths</a> is Connectedness (others include Analytical, Strategic, Input and Learner).
 

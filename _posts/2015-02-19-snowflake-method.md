@@ -5,7 +5,7 @@ header:
 categories:
   - WriteTips
 ---
-<img src="/assets/images/Rubenvent11.jpg">I love writing scenes and flash pieces from writing prompts. In fact, I've written hundreds of them. Pantsing out 750 words at a time is downright exhilarating and many have become my favourite pieces. I always end up with great premises and compelling characters.
+<img src="https://douglangille.github.io/assets/images/Rubenvent11.jpg">I love writing scenes and flash pieces from writing prompts. In fact, I've written hundreds of them. Pantsing out 750 words at a time is downright exhilarating and many have become my favourite pieces. I always end up with great premises and compelling characters.
 
 But not necessarily a story.
 

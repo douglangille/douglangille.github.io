@@ -5,7 +5,7 @@ header:
 categories:
   - Writings
 ---
-<img src="/assets/images/sun-19814.jpg">Amy hung sloppily off the arm of Scott. To everyone at the party, it appeared that she couldn't hold her liquor as well as she'd thought. Billie, of course, knew the truth.
+<img src="https://douglangille.github.io/assets/images/sun-19814.jpg">Amy hung sloppily off the arm of Scott. To everyone at the party, it appeared that she couldn't hold her liquor as well as she'd thought. Billie, of course, knew the truth.
 
 The shapely Billie floated around the room from table to table, mingling with the rich folk. She talked them up, especially the men--- and occasionally the women. Not that it bothered Billie to have that kind of attention. In fact, she delighted in teasing Amy with the competition.
 

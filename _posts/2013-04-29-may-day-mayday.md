@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/ee3cb00f2cf11c3e81584d04ee44408be273e7d11db4124496f0_640_mayday.jpg">It's <a href="http://en.wikipedia.org/wiki/May_Day">May Day</a>! Pagans unite for a celebration of Spring and Rebirth!
+<img src="https://douglangille.github.io/assets/images/ee3cb00f2cf11c3e81584d04ee44408be273e7d11db4124496f0_640_mayday.jpg">It's <a href="http://en.wikipedia.org/wiki/May_Day">May Day</a>! Pagans unite for a celebration of Spring and Rebirth!
 
 Today was also my monthly weigh-in day. 235 pounds. Wah-waaahhh. That's up again this month, but I won't be yelling "<a href="http://en.wikipedia.org/wiki/Mayday">MAYDAY, MAYDAY, MAYDAY</a>" (see what I did there?)
 

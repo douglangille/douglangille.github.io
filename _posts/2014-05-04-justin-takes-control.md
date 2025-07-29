@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg">Agent Justin Cayse left the bordello from the rear, having escaped his captor. Ava Longleggs, always the most generous of hosts, enjoyed Mister Cayse's visits immensely, often more than once. To be sure, the restraints were optional.
+<img src="https://douglangille.github.io/assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg">Agent Justin Cayse left the bordello from the rear, having escaped his captor. Ava Longleggs, always the most generous of hosts, enjoyed Mister Cayse's visits immensely, often more than once. To be sure, the restraints were optional.
 
 "Do come again, Justin," she said as she played with a lock of her auburn hair.
 

@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/eb3cb60d2af71c3e81584d04ee44408be273e7d11db4124796f5_640_paper-bag.jpg">I'm a little late getting this update out. It's been a busy time.
+<img src="https://douglangille.github.io/assets/images/eb3cb60d2af71c3e81584d04ee44408be273e7d11db4124796f5_640_paper-bag.jpg">I'm a little late getting this update out. It's been a busy time.
 
 Weigh-in was good --- down 4 pounds in February. No change in my measurements. Whatever. Did I mention that I logged a loss?
 

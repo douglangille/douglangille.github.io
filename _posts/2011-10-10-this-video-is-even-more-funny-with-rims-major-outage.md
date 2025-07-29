@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/e835b50a2ff6093ecd0b470de7444e90fe76e6d01cb510449df2c9_640_blackberry.jpg"><span class="embed-youtube" style="text-align:center; display: block;"></span>
+<img src="https://douglangille.github.io/assets/images/e835b50a2ff6093ecd0b470de7444e90fe76e6d01cb510449df2c9_640_blackberry.jpg"><span class="embed-youtube" style="text-align:center; display: block;"></span>
 
 My Blackberry is pretty much toast now. So is RIM.
 

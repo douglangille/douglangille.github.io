@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/wilsonkverge.jpg">I met Wilson in the summer of 1998. I was doing some very hands-on IT consulting for the NSCC Metro campuses. In conversation, I made the mistake of letting slip what my wage was. Compared to what I was being billed to the college, he shrewdly deemed that he could hire four of me for about the same spend. I went to work for him the following summer along with Dan, Donnie and Dale in a newly-formed IT shop with a mountain of challenges before it.
+<img src="https://douglangille.github.io/assets/images/wilsonkverge.jpg">I met Wilson in the summer of 1998. I was doing some very hands-on IT consulting for the NSCC Metro campuses. In conversation, I made the mistake of letting slip what my wage was. Compared to what I was being billed to the college, he shrewdly deemed that he could hire four of me for about the same spend. I went to work for him the following summer along with Dan, Donnie and Dale in a newly-formed IT shop with a mountain of challenges before it.
 
 I had thought I was prepared for his unique style of leadership given the chaotic masters I've worked for in the past. It took most of two years to figure out how to interpret and perform from his direction. Things would come from far-left field. Systems were not stable. The team was under siege.
 

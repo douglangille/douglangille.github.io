@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/20141022_003057000_iOS.jpg">"Wake up, you idiot."
+<img src="https://douglangille.github.io/assets/images/20141022_003057000_iOS.jpg">"Wake up, you idiot."
 
 I opened my eyes to see the same old man glaring at me under bushy eyebrows, his nostrils flaring in his equally bushy nose. I squeezed my eyes tightly, gripped my pillow and tried to ignore him.
 

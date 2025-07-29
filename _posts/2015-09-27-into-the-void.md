@@ -5,7 +5,7 @@ header:
 categories:
   - Writings
 ---
-<img src="/assets/images/6336363394_213bd59a9b_b.jpg">***Date: September 27, 1491 SCE  
+<img src="https://douglangille.github.io/assets/images/6336363394_213bd59a9b_b.jpg">***Date: September 27, 1491 SCE  
  (Second Current Era)***
 
 "Sky Captain," said Willem. He'd been a stellar First Mate. *How long have we been a-flight? Four, no, five years?*

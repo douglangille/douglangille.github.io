@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/1929922013_3f6b5e33dc_king-arthur.jpg">Do you love historical adventure sagas that span the centuries? Can the Arthur legends be true? What's the real story behind the Knights Templar? Is there more to William Wallace than just a warrior prince?
+<img src="https://douglangille.github.io/assets/images/1929922013_3f6b5e33dc_king-arthur.jpg">Do you love historical adventure sagas that span the centuries? Can the Arthur legends be true? What's the real story behind the Knights Templar? Is there more to William Wallace than just a warrior prince?
 
 Do you wish Louis L'Amour wrote stories set in the first millennia?
 

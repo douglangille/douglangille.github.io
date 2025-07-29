@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg">It was a dark and stormy night. Sure, it's clichÃ© but thats how I remember how it all started. How I was forced in to making this decision. How I ended up alone.
+<img src="https://douglangille.github.io/assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg">It was a dark and stormy night. Sure, it's clichÃ© but thats how I remember how it all started. How I was forced in to making this decision. How I ended up alone.
 
 I also remember that the handcuffs were too tight. In fact, when I first woke up, the pain was all I could think of for a time. I felt drugged, pliable and not in control. As I started to get my bearings,  I looked around. I was seated in a vehicle. A van. It was moving. The driver didn't speak or even look at me. He just delivered me to my destination in silence.
 

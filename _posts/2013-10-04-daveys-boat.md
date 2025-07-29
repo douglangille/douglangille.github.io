@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/7c12253e0cafcd77_640_rain-street.jpg">There was only one bus in town and I missed the last run, its taillights taunting me with the faint spray from the wet wheels. As I stood hunched over, ass against the wall and hands on my knees, I fought to win back my breath. For the umpteenth time, I vowed to quit smoking. A drop of rain mixed with salty sweat dripped off the tip of my nose. Cold and miserable, I stuffed my hands in the pockets of my jeans and steeled myself for the long walk home.
+<img src="https://douglangille.github.io/assets/images/7c12253e0cafcd77_640_rain-street.jpg">There was only one bus in town and I missed the last run, its taillights taunting me with the faint spray from the wet wheels. As I stood hunched over, ass against the wall and hands on my knees, I fought to win back my breath. For the umpteenth time, I vowed to quit smoking. A drop of rain mixed with salty sweat dripped off the tip of my nose. Cold and miserable, I stuffed my hands in the pockets of my jeans and steeled myself for the long walk home.
 
 I caught a flash of bright blue out of the corner of my eye and I looked to see a young boy running towards an alleyway. His coat was unzipped and flapped wildly in the weather. Spiderman pajamas and rubber boots completed the outfit. Surprised that anyone, aside from yours truly, would be traipsing about town at such an ungodly hour, a child was just plain concerning.
 

@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/3230227830_c93ea59ccc_yardstick.jpg">I have to admit, I was kinda down about this month's results on the scale --- a big ol' goose-egg. It seems like I'll never get to the 100 pound loss mark let alone any of my other lofty milestones and goals. I found myself dragging my heels writing this post, finding every "busy" excuse in the book.
+<img src="https://douglangille.github.io/assets/images/3230227830_c93ea59ccc_yardstick.jpg">I have to admit, I was kinda down about this month's results on the scale --- a big ol' goose-egg. It seems like I'll never get to the 100 pound loss mark let alone any of my other lofty milestones and goals. I found myself dragging my heels writing this post, finding every "busy" excuse in the book.
 
 But, ya know what? That's okay. We saw this coming. We were ready.
 

@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/ec35b20e2bf41c3e81584d04ee44408be273e7d11db4124593f7_640_candy.jpg">So, it's a Saturday morning and I have the house to myself. It's June 1st. That means it must be time for my monthly reflective post. It's been a busy month with our youngest finishing high school and getting ready for university in the fall. He's a bright kid with a fantastic future. It'll be weird with just the two of us rattling around the house come September. Well, maybe.
+<img src="https://douglangille.github.io/assets/images/ec35b20e2bf41c3e81584d04ee44408be273e7d11db4124593f7_640_candy.jpg">So, it's a Saturday morning and I have the house to myself. It's June 1st. That means it must be time for my monthly reflective post. It's been a busy month with our youngest finishing high school and getting ready for university in the fall. He's a bright kid with a fantastic future. It'll be weird with just the two of us rattling around the house come September. Well, maybe.
 
 Anyway, first off. I weighed in this morning at 235 lbs. That's a zero change from last month, but at least it's not a gain. So there's that. I have to keep reminding myself where I came from in this journey north of 330 lbs. I'm due for updated blood work. That should give me a better sense of my overall health and progress.
 

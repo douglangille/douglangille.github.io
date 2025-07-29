@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/dog-732346_1280.jpg">There was an old woman in Woodbridge there was  
+<img src="https://douglangille.github.io/assets/images/dog-732346_1280.jpg">There was an old woman in Woodbridge there was  
 So proper and tidy and all of them things  
 She would wander all day with her duster in hand  
 She was one of those women who clean where they stand.  

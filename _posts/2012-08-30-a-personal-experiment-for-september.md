@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/ed35b20a20f11c3e81584d04ee44408be273e7d01db6174093f7_640_scale.jpg">Another month down, another 10 pounds shed. At 246, I'm a full 60 lbs down since <a href="http://blog.douglangille.ca/2012/04/my-30-day-challenge.html">April when I opted to eschew grains and refined sugars</a> and a whopping 85 lbs loss in total. That's 25% off. Deep discount, I'm on sale!
+<img src="https://douglangille.github.io/assets/images/ed35b20a20f11c3e81584d04ee44408be273e7d01db6174093f7_640_scale.jpg">Another month down, another 10 pounds shed. At 246, I'm a full 60 lbs down since <a href="http://blog.douglangille.ca/2012/04/my-30-day-challenge.html">April when I opted to eschew grains and refined sugars</a> and a whopping 85 lbs loss in total. That's 25% off. Deep discount, I'm on sale!
 
 I didn't commit to any challenges over the summer given how irregular my schedule was. I was very happy to just maintain momentum and keep on track. To be honest, it's getting easier and easier to live Primal. Avoiding community candy dishes at the office remains an obstacle. It's weird because I don't have a sugar craving --- it's just when I walk by, I give in to temptation. However, I don't beat myself up over it. I aim for 100% compliance, but 80-90% is realistic.
 

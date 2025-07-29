@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20090530-235505.jpg" alt="" />
+<img src="https://douglangille.github.io/assets/images/20090530-235505.jpg" alt="" />
 
 My son Adam, his friend Ben and I had a great time. It was a small, but very engaged crowd.
 

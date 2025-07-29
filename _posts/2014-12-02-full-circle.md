@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/bus-stop-72171.jpg">"A strange thing happened on the way to the bus stop," I said, taking a plate from the rack and wiping it. Well-worn, these wedding gift dishes stood the test of time.
+<img src="https://douglangille.github.io/assets/images/bus-stop-72171.jpg">"A strange thing happened on the way to the bus stop," I said, taking a plate from the rack and wiping it. Well-worn, these wedding gift dishes stood the test of time.
 
 "What's that, sweetheart?" Heather rinsed a wine goblet and set it with its mate in the strainer. Third anniversary. Our first good year.
 

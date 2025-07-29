@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/3840887124_0908c40ecf_blueberry-rake.jpg">Martin slipped his battered old pickup into neutral and turned the engine off. Ol' Trusty coasted behind the bluff and crunched on the gravel shoulder. He winced at the squeal of her brakes. He didn't think that miserable old bastard could hear bugger-all anyway, but he ducked lower in the cab just the same.
+<img src="https://douglangille.github.io/assets/images/3840887124_0908c40ecf_blueberry-rake.jpg">Martin slipped his battered old pickup into neutral and turned the engine off. Ol' Trusty coasted behind the bluff and crunched on the gravel shoulder. He winced at the squeal of her brakes. He didn't think that miserable old bastard could hear bugger-all anyway, but he ducked lower in the cab just the same.
 
 As hot as it was in the truck, when Martin opened the door a weighty soup of hot damp air greeted  him. It had rained through the night, but the cloudless summer sky undoubtedly promised a stand-down later. He would make his move then. All the field-hands would be ensconced under a shady tree at the brook awaiting the call back to work. Boss Mikey would be living it up in the timekeeper's shack, a fan and some wobbly-pops within hand's reach.
 

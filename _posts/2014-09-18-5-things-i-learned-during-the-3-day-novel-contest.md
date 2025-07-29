@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/skittles1.jpg">My friend Anisa hinted, prodded, poked, goaded and shamed me into entering the 3 Day Novel Contest back on Labour Day weekend. It was her second time and I surmise she wanted to share the experience. You know, pay it forward and all that jazz.
+<img src="https://douglangille.github.io/assets/images/skittles1.jpg">My friend Anisa hinted, prodded, poked, goaded and shamed me into entering the 3 Day Novel Contest back on Labour Day weekend. It was her second time and I surmise she wanted to share the experience. You know, pay it forward and all that jazz.
 
 So I did.
 

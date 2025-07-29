@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/d4a0bb19f48dc30f_1280_town-sign-shield.jpg">What keeps you from writing the story that's been tumbling in your head forever? What keeps you from posting here? What keeps you from pressing that dreaded submit button on a contest or a submissions call?
+<img src="https://douglangille.github.io/assets/images/d4a0bb19f48dc30f_1280_town-sign-shield.jpg">What keeps you from writing the story that's been tumbling in your head forever? What keeps you from posting here? What keeps you from pressing that dreaded submit button on a contest or a submissions call?
 
 Call it nervousness, apprehension or straight-up fear. Name it, claim it, and then conquer it.
 

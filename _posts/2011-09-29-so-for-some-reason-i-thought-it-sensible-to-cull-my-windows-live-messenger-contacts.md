@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/e835b30f29f0053ecd0b470de7444e90fe76e6d01cb5104794f9c6_640_contacts.jpg">I got mired up in the Windows Live platform import/export goofiness and generally ended up annoying all my peeps. Sorry.
+<img src="https://douglangille.github.io/assets/images/e835b30f29f0053ecd0b470de7444e90fe76e6d01cb5104794f9c6_640_contacts.jpg">I got mired up in the Windows Live platform import/export goofiness and generally ended up annoying all my peeps. Sorry.
 
 Anyhoo, I saw some feedback along the lines of "Sorry, I don't use MSN anymore" to "What, I still have MSN?!?"
 

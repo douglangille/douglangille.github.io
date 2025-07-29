@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20091018-144513.jpg" alt="" />
+<img src="https://douglangille.github.io/assets/images/20091018-144513.jpg" alt="" />
 
 It was a nice day to be outside with my nieces at one of my favourite haunts.
 

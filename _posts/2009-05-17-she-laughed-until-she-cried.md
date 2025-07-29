@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/20090519-214449.jpg">So, I had an hour between coming home from work and taking Adam to guitar lessons. I decided to haul up some the old tile in the kitchen as part of the discount reno plan we're cruising thru prior to the nuptials of Carye and Alex.
+<img src="https://douglangille.github.io/assets/images/20090519-214449.jpg">So, I had an hour between coming home from work and taking Adam to guitar lessons. I decided to haul up some the old tile in the kitchen as part of the discount reno plan we're cruising thru prior to the nuptials of Carye and Alex.
 
 I was sitting on the floor, legs splayed and scraping tile between them ("knife to yer buddy, not yer body"). I had a good pace going. I was in the zone.
 

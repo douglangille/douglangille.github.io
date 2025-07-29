@@ -8,7 +8,7 @@ tags:
   - Fiction
   - QuickRead
 ---
-<img src="/assets/images/Collecting-Knives.jpg">"You see, Detective, I have a little problem with knives. I collect them, large and small. Not swords, mind you, or anything garish like that. Just a simple blade will do, thank you very much."
+<img src="https://douglangille.github.io/assets/images/Collecting-Knives.jpg">"You see, Detective, I have a little problem with knives. I collect them, large and small. Not swords, mind you, or anything garish like that. Just a simple blade will do, thank you very much."
 
 "Folding pocket knives are particularly useful. They're easy to handle and I rarely cut myself. I insist on a locking blade. It's very important to keep one handy, in your pocket, for the little jobs such as cutting a length of rope or duct tape. Serrated the first third, I prefer the business-end bevelled and sharp to the point. I always grind an edge on the back as well; it can make all the difference in a pinch."
 

@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/Misery_Kathy_Bates.jpg">Why write? Good question. I have no idea. Perhaps, the answer for me is also a line of inquiry. Why not? Why not just pack it in and give up on any dreams of becoming a famous author, bathing in a bathtub of dollar bills. Well, I'm Canadian, so they'd be coins, loonies we call 'em, but you get the point.
+<img src="https://douglangille.github.io/assets/images/Misery_Kathy_Bates.jpg">Why write? Good question. I have no idea. Perhaps, the answer for me is also a line of inquiry. Why not? Why not just pack it in and give up on any dreams of becoming a famous author, bathing in a bathtub of dollar bills. Well, I'm Canadian, so they'd be coins, loonies we call 'em, but you get the point.
 
 Here's the deal. I have no aspirations of being a novelist, famous or otherwise. Although, an unfamous (as opposed to infamous) novelist seems kinda lame. What is the difference between 'famous' and 'infamous' anyway? Good and evil, they tend to be used interchangeably. English is such a strange language.
 

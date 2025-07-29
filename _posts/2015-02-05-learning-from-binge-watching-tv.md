@@ -5,7 +5,7 @@ header:
 categories:
   - WriteTips
 ---
-<img src="/assets/images/grimm1.jpg">So, I have to admit something.
+<img src="https://douglangille.github.io/assets/images/grimm1.jpg">So, I have to admit something.
 
 I enjoy binge watching TV shows. There is nothing better than curling up on the couch with my best girl on a stormy weekend and blasting through a season of our favourite series as if it was one long epic movie. We've been know to deliberately not watch a season or at least let several episodes queue up so we can watch them in one big marathon session. To experience a brand new show this way is amazing.
 

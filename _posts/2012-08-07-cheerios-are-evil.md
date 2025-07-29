@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/5065176678_9c7055dcd8_cheerios.jpg">So my grandson was visiting with us on the weekend. He's a great kid. Having him around is an inspiration to get healthy.
+<img src="https://douglangille.github.io/assets/images/5065176678_9c7055dcd8_cheerios.jpg">So my grandson was visiting with us on the weekend. He's a great kid. Having him around is an inspiration to get healthy.
 
 I was feeding him Cheerios for breakfast. The smelled so good! So I had some. Just a handful. Once I had a taste of them I had another handful. I had a couple of handfuls here and there through the weekend. So sweet! That taste of sugar had me wanting more.
 

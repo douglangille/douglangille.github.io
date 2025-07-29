@@ -5,7 +5,7 @@ header:
 categories:
   - Musings
 ---
-<img src="/assets/images/tumblr_mh5ue1vdR61rlipfwo1_1280.png">I probably didn't need the pepperoni but, hell, I could have made worse choices.
+<img src="https://douglangille.github.io/assets/images/tumblr_mh5ue1vdR61rlipfwo1_1280.png">I probably didn't need the pepperoni but, hell, I could have made worse choices.
 
 Like the cookie at lunch (dammit).
 

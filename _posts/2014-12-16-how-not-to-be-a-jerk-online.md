@@ -7,7 +7,7 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="/assets/images/0f7eafd6f519319a_1280_bird-wire.jpg">It goes without saying that being active on the Internet requires a thick skin. With social media tools like Facebook, we now all create content whether we recognize it or not. Our opinions are open for criticism.
+<img src="https://douglangille.github.io/assets/images/0f7eafd6f519319a_1280_bird-wire.jpg">It goes without saying that being active on the Internet requires a thick skin. With social media tools like Facebook, we now all create content whether we recognize it or not. Our opinions are open for criticism.
 
 In times of war, the enemy is dehumanized and even demonized. Part of the equation for the escalation in arms is in distancing ourselves from other humans. It's morally more convenient to fire a gun than to bash somebody over the head with a war hammer.
 
