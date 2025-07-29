@@ -52,17 +52,17 @@ Rhonda and I have always loved animals and over the last almost three years, we 
 
 Pekin ducks were first. We house them in an exclusive gated community called Duckington Heights. The current flock of five are Mickey, Donald, Peach, Quack-quack, and Bluebear. Their eggs are delicious— when the freeloaders lay them. Whatever you do, do not Google duck sexuality. You have been warned.
 
-{% include figure image_path="/assets/images/20221230_122154057_iOS.jpg" caption="The residents of Duckington Heights" %}
+{% include figure image_path="https://douglangille.github.io/assets/images/20221230_122154057_iOS.jpg" caption="The residents of Duckington Heights" %}
 
 Rabbits were next. We have some California-New Zealand hybrids and some Cinnamons. They live in pallet-built hutches under a huge horse chestnut tree called Bunnytown. We breed them for meat for sale. Yes, the babies are cute little house hippos. There’s a fair market for rabbit and we’ve done well so far. The breeding stock are our pets: Penny, Lenny, Rocket, Flower and the OG buck Thumper the Humper.
 
-{% include figure image_path="/assets/images/20221230_122523160_iOS.jpg" caption="Bunnytown" %}
+{% include figure image_path="https://douglangille.github.io/assets/images/20221230_122523160_iOS.jpg" caption="Bunnytown" %}
 
 {% include gallery id="gallery1" caption="The rabbits of Bunnytown" %}
 
 The goats of Kid Row are straight-up pets. And we love them: Peanut (boer) and Coco (pygmy). They are a bonded pair and a lot of fun.
 
-{% include figure image_path="/assets/images/20221230_121722274_iOS.jpg" caption="Peanut says 'Hi' and Coco says 'Haayyyy'. Goats are the GOAT." %}
+{% include figure image_path="https://douglangille.github.io/assets/images/20221230_121722274_iOS.jpg" caption="Peanut says 'Hi' and Coco says 'Haayyyy'. Goats are the GOAT." %}
 
 We have nine layer hens in Butt Nugget Palace. Dorothy, Rose, Blanche, Sofia and Wiggles are formally named. I call the others Betty, Smoke, Paint and Barbie. Doctor Harry Weston presides as resident rooster.
 
@@ -80,7 +80,7 @@ Our garden boxes also produced a healthy bounty of cucumbers, tomatoes, yellow b
 
 There’s also a bunch of fruit-bearing things on the property: apples and chokecherries in particular. But we keep finding gems like a random white current bush.
 
-{% include figure image_path="/assets/images/20220810-161755.jpg" caption="We have a lot of chokecherries" %}
+{% include figure image_path="https://douglangille.github.io/assets/images/20220810-161755.jpg" caption="We have a lot of chokecherries" %}
 
 Next year, we’re going to raise more meat birds and expand our egg-laying capacity with a second flock. We’ll also be raising more meat rabbits for sale. Rhonda has done a great job planning all the details and tracking our progress.
 

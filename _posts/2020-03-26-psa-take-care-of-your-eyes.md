@@ -41,7 +41,7 @@ I get headaches from eyestrain all the time. It used to be really bad.
 
 * ***Blink***. Stop staring. And stop squinting. Who are you: Clint Eastwood?
 
-{% include figure image_path="/assets/images/a319b530-898d-495f-b834-62409c4ad8b5.gif" caption="You are not Clint Eastwood." %}
+{% include figure image_path="https://douglangille.github.io/assets/images/a319b530-898d-495f-b834-62409c4ad8b5.gif" caption="You are not Clint Eastwood." %}
 
 **About your monitor and laptop screen:**
 

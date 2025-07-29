@@ -21,7 +21,7 @@ As I mentioned last week, most of the tool is very familiar. You got all the bas
 - 1-Click desktop screen sharing -- CHECK!
 - For every device, there's an app-for-that -- CHECK!
 
-{% include figure image_path="/assets/images/912affe4-ca28-4f24-9dd3-4037a7a95b8c.gif" caption="Well, I haven't fought one person for so long. I've been specialized in groups, battling gangs for local charities, that kind of thing [...] You use different moves when you're fighting half a dozen people, than when you only have to be worried about one." %}{: .align-right style="max-width:25rem"}
+{% include figure image_path="https://douglangille.github.io/assets/images/912affe4-ca28-4f24-9dd3-4037a7a95b8c.gif" caption="Well, I haven't fought one person for so long. I've been specialized in groups, battling gangs for local charities, that kind of thing [...] You use different moves when you're fighting half a dozen people, than when you only have to be worried about one." %}{: .align-right style="max-width:25rem"}
 
 To be honest, these things aren't by themselves particularly innovative or even all that interesting. I mean, we have iMessage, FaceTime, Facebook Messenger, WhatsApp, Zoom, PolyCom and, yes, even Skype for Business.
 
