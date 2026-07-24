@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/load-bearing/feature.png
   overlay_image: /assets/images/load-bearing/feature.png
 feature: /assets/images/load-bearing/feature.png
-tags: [speculative, intimacy, melancholy, stacey]
+tags: [speculative, intimacy, melancholy]
 ---
 
 # Load-bearing
