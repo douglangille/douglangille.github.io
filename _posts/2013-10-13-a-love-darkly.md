@@ -12,7 +12,6 @@ tags:
   - melancholy
 feature: /assets/images/a-love-darkly/a-love-darkly.png
 ---
-
 # A Love, Darkly
 
 Alice gave me a furtive glance as she handed me a glass of lemonade. She was nervous. I could sense a slight tremble in her voice as she offered a drink to Darcy. As usual, he was oblivious.

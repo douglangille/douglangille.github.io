@@ -12,7 +12,6 @@ tags:
   - tension
 feature: /assets/images/hold-the-phone/4940893730_ce74d18852_b.jpg
 ---
-
 # Hold the Phone
 
 "Is this Douglas Langille?"

@@ -13,7 +13,6 @@ tags:
   - tension
 feature: /assets/images/whats-a-dwaithelord/5416798747_0095e81ffe_evil-fairy.jpg
 ---
-
 # What's a Dwaithelord?
 
 Dwaithelord --- an honorific for the tribal leader of a coven of dwarven wraith soul stealers. Traditionally male, Dwaithelords are honor-bound to defend their their subjects to the point of True Death if necessary.

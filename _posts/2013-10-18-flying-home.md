@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/flying-home/14870589051_81e9103ce2_b.jpg
 ---
-
 # Flying Home
 
 I watched the sun set and the moon rise,  

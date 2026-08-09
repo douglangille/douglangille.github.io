@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/alien-haiku/9153767970_5a8cbf4f18_b.jpg
 ---
-
 # Alien Haiku
 
 Driving late at night  

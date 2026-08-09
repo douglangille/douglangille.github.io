@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/second-chances/bar_by_zeitweilig.jpg
 ---
-
 # Second Chances
 
 Archie winced and swallowed. The beer tasted watery and flat. Ever since Pop died, this place wasn't the same. Jug tried hard, but he didn't have the mind for business.

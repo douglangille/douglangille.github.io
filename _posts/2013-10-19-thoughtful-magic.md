@@ -9,7 +9,6 @@ categories: []
 tags: [speculative, intimacy, wit]
 feature: /assets/images/thoughtful-magic/1deb57f5e4789aa4_1280_mask.jpg
 ---
-
 # Thoughtful Magic
 
 The life of a super-villainess was burdensome to Amy and when her fembot henchman, Stacey, suggested a vacation in her winter-lair on the Caribbean, she jumped at the opportunity and hopped on her jet.

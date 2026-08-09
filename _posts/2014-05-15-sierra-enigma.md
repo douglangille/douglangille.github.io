@@ -9,7 +9,6 @@ categories: []
 tags: [grounded, solitude, tension]
 feature: /assets/images/sierra-enigma/PartialHeterochromia.jpg
 ---
-
 # Sierra Enigma
 
 It's never been easy working in the same place where Mom died. The university's sprawling campus occupied most of the peninsula, and the hospital sat at its edge. The medical school annually stamped out young doctors and nurses, and the hospital kept the research facility well-stocked with human suffering and corpses. All in all, it was a fair trade and not all that atypical. From the study of death comes the hope of life.

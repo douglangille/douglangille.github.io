@@ -10,7 +10,6 @@ tags: [speculative, kith-kin, tension]
 feature: /assets/images/into-the-void/6336363394_213bd59a9b_b.jpg
 feature_y: 50.0%
 ---
-
 # Into the Void
 
 ***Date: September 27, 1491 SCE  

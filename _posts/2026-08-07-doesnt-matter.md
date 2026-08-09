@@ -8,7 +8,6 @@ excerpt: The good kind of quick, if there's a good kind.
 tags: [dark, kith-kin, melancholy, haley]
 feature: /assets/images/doesnt-matter/feature.png
 ---
-
 # Doesn't Matter
 
 Blood dries the same everywhere. Under my nails, in the seams of my palms, gone tacky like the last inch of a chap stick. Jimmy's, mostly. Some mine. Doesn't matter.

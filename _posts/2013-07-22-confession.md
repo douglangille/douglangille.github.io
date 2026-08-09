@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/confession/8683286803_197ea2417f_sea-siren.jpg
 ---
-
 # Confession
 
 Murderer! Murderer! I thought I would ne'er hear that word.  

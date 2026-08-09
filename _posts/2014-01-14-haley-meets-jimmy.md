@@ -12,7 +12,6 @@ tags:
   - tension
 feature: /assets/images/haley-meets-jimmy/cd2aae9125f56d89_640_bar-beer.jpg
 ---
-
 # Haley Meets Jimmy
 
 I should have trusted my instincts. The girl, calling herself Haley, possessed a wild look about her. Despite the frame of a teenage girl, Haley put out the vibe that she was no kid.

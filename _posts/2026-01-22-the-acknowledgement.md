@@ -11,7 +11,6 @@ tags:
   - melancholy
 feature: /assets/images/the-acknowledgement/feature.png
 ---
-
 # The Acknowledgement
 
 The house has sealed itself. Ethan stands on the porch he built, but the doorframe belongs to someone else now, corporate foam in every seam, hazard lights pulsing yellow against the siding. A Weyland-Yutani sticker on the frame: AUTHORIZED PERSONNEL ONLY. The vial, red through the frost, is cold in his hand.

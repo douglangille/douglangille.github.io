@@ -13,7 +13,6 @@ tags:
   - haley
 feature: /assets/images/kitchen-tools/9464995143_626fb980cd_b.jpg
 ---
-
 # Kitchen Tools
 
 "But what if I hold it like this?" asked Eunice.

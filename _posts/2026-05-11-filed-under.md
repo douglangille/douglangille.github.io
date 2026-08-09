@@ -12,7 +12,6 @@ tags:
 feature: /assets/images/filed-under/feature.png
 feature_y: 50.0%
 ---
-
 # Filed Under
 
 The lair smelled like solder and bad decisions.

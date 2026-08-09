@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/lost-in-the-rain/Storm_Drain.jpg
 ---
-
 # Lost in the Rain
 
 rain in late summer  

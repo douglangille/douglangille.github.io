@@ -10,7 +10,6 @@ header:
   overlay_image: /assets/images/still-light/feature.png
 feature: /assets/images/still-light/feature.png
 ---
-
 # Still Light
 
 The morning started with Donnie eating toast over the sink the way he always did when he was running late, crumbs on the counter, jam at the corner of his mouth. Sink knife on the edge. I told him I'd found a camera in dad's last box.

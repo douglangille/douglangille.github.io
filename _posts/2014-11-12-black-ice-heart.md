@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/black-ice-heart/2904993736_e42f8ec487_z.jpg
 ---
-
 # Black Ice Heart
 
 Her icy stare made me shiver  

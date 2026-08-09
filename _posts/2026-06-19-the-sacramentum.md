@@ -11,7 +11,6 @@ tags:
   - solitude
   - tension
 ---
-
 # The Sacramentum
 
 The composite eagle caught the light wrong. Livia had noticed it at rehearsal: the way printed resin flattened where bronze would have thrown shadows. She noticed it again now, from the third rank, standing at attention while the Praefectus unfolded a sheet of paper.

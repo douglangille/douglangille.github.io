@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/georgie-groundhog/7420708952_0c90eb0fea_b.jpg
 ---
-
 # Georgie Groundhog
 
 "Oh dear, oh dear! I'm late, so terribly late," muttered Georgie Groundhog to himself as he dressed for the storm outside.

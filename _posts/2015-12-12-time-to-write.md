@@ -9,7 +9,6 @@ header:
 tags: [grounded, solitude, wit]
 feature: /assets/images/time-to-write/hourglass-620397_640.jpg
 ---
-
 # Time to Write
 
 I can't find the time to write.

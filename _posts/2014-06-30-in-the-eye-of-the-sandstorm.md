@@ -12,7 +12,6 @@ tags:
   - melancholy
 feature: /assets/images/in-the-eye-of-the-sandstorm/Desert_Storm_by_Araken_Starway.jpg
 ---
-
 # In the Eye of the Sandstorm
 
 A gust of wind stirred up the dust of the deserted street. It stung the stranger's face as he led his burro into town. He brought his free arm across his face to protect his eyes and he gritted his teeth. The howling sandstorm drowned all other sound in its fury. Man and beast trod alone.

@@ -12,7 +12,6 @@ tags:
   - eerie
 feature: /assets/images/calum-in-the-forest/feature.png
 ---
-
 # Calum in the Forest
 
 The moss is darker where I kneel. Not wet-dark. Something else. I frame it, check the aperture twice, breathe through my nose the way I'm supposed to. Three-point-five, ISO 400, the light's doing that thing again where it pools instead of filters. I take the shot. 

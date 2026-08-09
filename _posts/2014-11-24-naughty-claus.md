@@ -14,7 +14,6 @@ tags:
   - poetry
 feature: /assets/images/naughty-claus/e835b90729fc023ecd0b470de7444e90fe76e6d01db1124293f7c4_640_online-shopping.jpg
 ---
-
 # Naughty Claus
 
 There once was a man named Naughty Claus  

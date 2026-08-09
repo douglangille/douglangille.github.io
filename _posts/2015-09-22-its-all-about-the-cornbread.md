@@ -13,7 +13,6 @@ tags:
   - wit
 feature: /assets/images/its-all-about-the-cornbread/2205670531_8e595a7a0a_b.jpg
 ---
-
 # It's All About the Cornbread
 
 Ya see, us here wolves got a bad rap. We ain't so bad. I tell ya, most of us would rather drop in to Joe's Diner than trounce through the Woods looking for some eats.

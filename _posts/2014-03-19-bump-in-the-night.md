@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/bump-in-the-night/4125927607_0aa78d3a4f_b.jpg
 ---
-
 # Bump in the Night
 
 Matted-hair and rotted teeth,  

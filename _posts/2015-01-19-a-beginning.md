@@ -13,7 +13,6 @@ tags:
   - eerie
 feature: /assets/images/a-beginning/4023271489_298888916d_blood-drop.jpg
 ---
-
 # A Beginning…
 
 Amy wiped the blood from the corner of her mouth and flushed the toilet quickly before her mother asked questions.

@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/free-fall-forward/feature.jpg
 feature: /assets/images/free-fall-forward/feature.jpg
 ---
-
 # Free-Fall Forward
 
 The alarm split the silence like a hull breach. Atmo pressure dropping: forty seconds to hypoxia. Josie's hands moved before her brain caught up. Primary seal, where was the breach? Her fingers flew across the panel, muscle memory taking over. Seal one: green. Seal two: red and screaming. She rerouted to tertiary. One year ago today she'd fallen through atmosphere with a dead computer and lived. Tonight she'd do it again.

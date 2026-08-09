@@ -13,7 +13,6 @@ tags:
   - tension
 feature: /assets/images/fletcher-returns/Leaves_on_the_grass_1_by_spoii.jpg
 ---
-
 # Fletcher Returns
 
 Carol Bannister placed the breakfast tray in front of her Aunt Jessica and stood staring out the window at the autumn leaves swirling about the grounds.

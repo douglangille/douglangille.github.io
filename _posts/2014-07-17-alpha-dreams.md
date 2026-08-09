@@ -12,7 +12,6 @@ tags:
   - melancholy
 feature: /assets/images/alpha-dreams/Pug_portrait.jpg
 ---
-
 # Alpha Dreams
 
 Dawn's dim light glows in the porch windows. I sidle up to my girl and nuzzle her neck. She wakes and looks at me, her whiskers twitching. She smells it too. Another pup died in the night. She whimpers and groans as she rises to her feet to check on the rest of the litter. Her swollen teats hang low to the ground and useless as she pads over to the box behind the stove. Three small white wriggling babies mewl in their slumber. They're hungry, but she doesn't take them out to feed. There is no milk.

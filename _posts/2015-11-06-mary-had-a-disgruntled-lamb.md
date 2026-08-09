@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/mary-had-a-disgruntled-lamb/Disgruntled-Lamb.jpg
 ---
-
 # Mary Had a Disgruntled Lamb
 
 Mary had a disgruntled little lamb,  

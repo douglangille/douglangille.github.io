@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/the-lighter/feature.png
 feature: /assets/images/the-lighter/feature.png
 ---
-
 # The Lighter
 
 The sugar canister is cool to her touch.

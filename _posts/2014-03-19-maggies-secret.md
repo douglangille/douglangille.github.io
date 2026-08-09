@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/maggies-secret/4577104544_a4f06dc810_b.jpg
 ---
-
 # Maggie&#39;s Secret
 
 "So, I know something you don't know."

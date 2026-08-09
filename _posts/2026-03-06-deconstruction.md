@@ -11,7 +11,6 @@ tags:
   - eerie
 feature: /assets/images/deconstruction/feature.jpg
 ---
-
 # Deconstruction
 
 The box says forty-two pieces. I've counted three times.

@@ -12,7 +12,6 @@ tags:
   - melancholy
 feature: /assets/images/one-last-letter/nj-321381.jpg
 ---
-
 # One Last Letter
 
 Ricky checked his mailbox everyday at just before noon, rain or shine. He'd done this for as long as he could remember. Clip the leash on Duke, Number Four in a long line of Dukes, and let the dog lead him down the winding driveway. Ricky'd shuffle along, arm outstretched. Some days, his shoulder would hurt from the tugging and others it'd magically feel better, as if Duke held chiropractic talent in his thick skull.

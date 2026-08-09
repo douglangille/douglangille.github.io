@@ -11,7 +11,6 @@ tags:
   - intimacy
   - melancholy
 ---
-
 # Briefly and Completely Mine
 
 Amy is spinning again.

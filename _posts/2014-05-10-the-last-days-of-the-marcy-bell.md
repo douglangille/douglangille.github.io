@@ -13,7 +13,6 @@ tags:
   - tension
 feature: /assets/images/the-last-days-of-the-marcy-bell/3375982065_d2b7a3b27b_o.jpg
 ---
-
 # The Last Days of the Marcy Bell
 
 Officially, the Marcy Bell was a salvage rig, licensed for Canadian and international waters but not American. Since 9/11, it was only through a sea of red tape that non-government ships could comb the shoals. For independents, it was impossible. MacKenzie was an honest man--- Hell they all were, but, as captain, he had to keep the bank happy. He'd missed last payroll and it was just me and Sam left for the last trip out before the storm season hit. Marcy was a fine tub, but a little long in the tooth for winter work, especially in the middle of the North Atlantic.

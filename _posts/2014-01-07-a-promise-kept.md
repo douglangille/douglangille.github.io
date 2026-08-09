@@ -13,7 +13,6 @@ tags:
   - melancholy
 feature: /assets/images/a-promise-kept/4297653599_5d435cf261_b_peggy-cove.jpg
 ---
-
 # A Promise Kept
 
 "Damn," Marnie said as she pulled over onto the icy soft-shoulder and got out, leaving the car running but the door ajar. The beep-beeping cut through me like knives. I watched as my sister grabbed a handful of frozen snow and washed the road salt from the windshield. Satisfied, she clapped her mitts together and climbed back inside and slammed the door a little too hard for my liking. The heat hit me in the face as she pulled away and I felt slightly nauseous.

@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/captain-underpants/man-147613_1280.jpg
 ---
-
 # Captain Underpants
 
 She asked me two times  

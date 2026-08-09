@@ -12,7 +12,6 @@ tags:
   - tension
 feature: /assets/images/riding-the-train/subway_car_by_paupah.jpg
 ---
-
 # Riding the Train
 
 Riding the hover train this time of night always made me sleepy. The route passed through seedier parts of the city, so I took to people-watching to stay alert. I didn't want to be one of the statistics that we heard nightly on the newsfeeds.

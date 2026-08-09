@@ -13,7 +13,6 @@ tags:
   - tension
 feature: /assets/images/the-dark-pool-of-lamia/water-drop-173751.jpg
 ---
-
 # The Dark Pool of Lamia
 
 Lamia wrapped the mottled scarf around her light frame, enjoying the silky sensation as the soft cool hide hugged her contours. She didn't have need of mirrors to know the truth of her beauty, only to close her eyes and run her palms down her middle to feel the smooth scales. Drawing her hands up to under her bare breasts, the rough utility of the garment hid many secrets. The Queen opened her eyes and caught the flecks of starlight shimmering and reflecting her regency.

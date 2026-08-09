@@ -14,7 +14,6 @@ tags:
   - poetry
 feature: /assets/images/the-bogeyman/RSS006.jpg
 ---
-
 # The Bogeyman
 
 Daddy says it's time to sleep,  

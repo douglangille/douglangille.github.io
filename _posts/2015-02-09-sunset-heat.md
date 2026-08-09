@@ -12,7 +12,6 @@ tags:
   - melancholy
 feature: /assets/images/sunset-heat/end-of-the-day.jpg
 ---
-
 # Sunset Heat
 
 I put the rest of the tools in the trunk and wheeled it over to the tie-downs. The sweat poured off my head despite the cooling salt air. It was a hot day and I pretty damn happy for sunset and a little downtime. I looked out at the orange glow of the ocean. Big sky.

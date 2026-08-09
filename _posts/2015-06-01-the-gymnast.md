@@ -13,7 +13,6 @@ tags:
   - wit
 feature: /assets/images/the-gymnast/rhythm-78387_1280.jpg
 ---
-
 # The Gymnast
 
 The gymnast contorted backwards in artful retroflection, her ribbon efficient in its sparely motion, the structured rules of physics seemingly vandalized in impossibility.

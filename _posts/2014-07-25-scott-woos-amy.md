@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/scott-woos-amy/ec33b10820f71c3e81584d04ee44408be273e7d61db212449cf2_640_moon.jpg
 ---
-
 # Scott Woos Amy
 
 "I would give you the moon, babe."

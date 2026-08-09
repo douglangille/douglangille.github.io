@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/twenty-three-years-in/458439328_3f09c74cfa_bed-night.jpg
 ---
-
 # Twenty-Three Years In
 
 It's late at night and we lie in bed  

@@ -12,7 +12,6 @@ tags:
   - tension
 feature: /assets/images/fancy-meeting-you-here/feature.png
 ---
-
 # Fancy Meeting You Here
 
 Elliot sighted carefully, took aim, and flicked the peanut shell across the bar into a glass of stale beer. It landed with a satisfying plop. He smirked to himself, shrugged his shoulders and straightened on his stool, before bringing his own glass to his lips.

@@ -13,7 +13,6 @@ tags:
   - tension
 feature: /assets/images/piscans-interruptus/Fishing-spinning-reel.jpg
 ---
-
 # Piscans Interruptus
 
 Captain Nestor breathed a sigh of relief as his yacht left the hanger bay of the Vindictus. *Finally, some alone time.* It'd been too long since he'd taken holiday. The conflict with the Faradur took much longer to resolve than necessary. Piracy, even light-years away, still stood as a dangerous and violent game. But they'd finally had some success brokering a deal. Funny what pandering to greed can accomplish.

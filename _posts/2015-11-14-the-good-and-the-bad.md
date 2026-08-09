@@ -12,7 +12,6 @@ header:
   overlay_image: /assets/images/the-good-and-the-bad/7609192892_575d60d41b_brass-knuckles.jpg
 feature: /assets/images/the-good-and-the-bad/7609192892_575d60d41b_brass-knuckles.jpg
 ---
-
 # The Good and the Bad
 
 {%include figure image_path="/assets/images/the-good-and-the-bad/7609192892_575d60d41b_brass-knuckles.jpg"%}{: .align-right}

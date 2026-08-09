@@ -11,7 +11,6 @@ header:
 feature: /assets/images/the-canvas/IMG_0126.jpeg
 feature_y: 50.0%
 ---
-
 # The Canvas
 
 The rock cut through her gloves at the third handhold.

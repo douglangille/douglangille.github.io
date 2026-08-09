@@ -13,7 +13,6 @@ tags:
   - tension
 feature: /assets/images/frannie-takes-the-train/handcuffs-219261.jpg
 ---
-
 # Frannie Takes the Train
 
 The rattle and rumble of the train on its tracks persisted in their pursuit of my sleep. I fought the fatigue despite being awake for the last thirty hours. Only one more stop to go and this nightmare would be over. I rubbed my wrist, now raw from the handcuffs. The attached suitcase fell over again, snapping my arm away. I winced at the sudden pull on my shoulder and cursed the case's missing rubber feet.

@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/thorn-apple/thorn-apple.png
 feature: /assets/images/thorn-apple/thorn-apple.png
 ---
-
 # Thorn Apple
 
 The room costs what it costs. Ruthanne stopped apologizing years ago.

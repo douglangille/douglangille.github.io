@@ -12,7 +12,6 @@ tags:
   - melancholy
 feature: /assets/images/falling-star/4949129334_4de1a73374_b_falling-star.jpg
 ---
-
 # Falling Star
 
 Martha woke from her terrible dream with the chills. She was having the same dream that she'd been having ever since the confirmed diagnosis two years ago. She was barren and would never be able to carry. There would never be the pitter-patter of young feet to be heard in this old farmhouse. Adoption wasn't in the cards. It would always be just her and her husband. In her nightmare, he left her. She would live and die utterly alone, with not a single mark to make along God's path.

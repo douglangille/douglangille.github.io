@@ -9,7 +9,6 @@ categories: []
 tags: [speculative, kith-kin, wit]
 feature: /assets/images/judgement-dogs/door-689874_1280.jpg
 ---
-
 # Judgement Dogs
 
 "Pansy, did you see what that meathead did?"

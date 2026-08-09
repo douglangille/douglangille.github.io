@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/late-at-night/Hospital_by_sheisviolence.jpg
 ---
-
 # Late at Night
 
 I opened my eyes and could not see.  

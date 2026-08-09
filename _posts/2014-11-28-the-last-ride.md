@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/the-last-ride/5807577702_2b25ec5d7a_bicycle-wheel.jpg
 ---
-
 # The Last Ride
 
 Racing down the mountain side  

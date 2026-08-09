@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/lemony-rain/lemon-364274.jpg
 ---
-
 # Lemony Rain
 
 I constructed my lair from the choicest rock candy, not dollar store seconds. The emerald green ribbon glowed deep within the rot of my heart. Shielded from the lemony rains, I would finally be free. Free to liberate Candytown from its chocolatey oppressors. Too long have the goody-good cocoa-dolts ruled the town. There was a time when candies and taffies prospered. And that time will come again.

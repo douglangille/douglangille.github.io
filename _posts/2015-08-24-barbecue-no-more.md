@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/barbecue-no-more/14407329792_5240b7ed7a_b.jpg
 ---
-
 # Barbecue No More
 
 Steak was supposed to be on sale.

@@ -12,7 +12,6 @@ tags:
   - melancholy
 feature: /assets/images/mitzy-and-the-butterfly/8b973b71609dfded_640.jpg
 ---
-
 # Mitzy and the Butterfly
 
 And as quickly begun, it was finished. *White magic. My little sister. Gone.*

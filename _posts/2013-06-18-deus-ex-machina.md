@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/deus-ex-machina/1b5b1dfcb4aa9054_1280_detective1.jpg
 ---
-
 # Deus Ex Machina
 
 "Where's my son?" Luthur Pinderton slammed  his large hand against the cinder-block that framed the window of the interrogation room. Inside, Detective Goran was getting the run-around from his quarry. Merle Cambridge, the Magnificent if you prefer, was proving to be as mysterious as his shtick would have his patrons believe.

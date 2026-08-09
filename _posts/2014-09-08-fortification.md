@@ -12,7 +12,6 @@ tags:
   - tension
 feature: /assets/images/fortification/3928159274_ce53125700_whiskey-glass.jpg
 ---
-
 # Fortification
 
 David's hand trembled as he poured the Ballantines over the ice. He drank it in a single pull and refilled his glass, wincing at the burning fortification. David ignored Melanie's lifeless eyes staring at him and picked up the shovel.

@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/newly-freed/16679994001_e322a3ab83_b.jpg
 ---
-
 # Newly Freed
 
 thin glaze on puddles  

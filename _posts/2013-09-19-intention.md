@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/intention/3445269852_bca2f85d3c_b-1.jpg
 ---
-
 # Intention
 
 Larry sat in the jail cell and tried to make himself invisible. The smell of piss, sweat and stale booze made him light-headed. An acrid mouthful of pre-vomit spittle coated his tongue.

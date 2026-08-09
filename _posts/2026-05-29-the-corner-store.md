@@ -12,7 +12,6 @@ tags:
 feature: /assets/images/the-corner-store/the-corner-store.png
 feature_y: 50.0%
 ---
-
 # The Corner Store
 
 The bell above the door rang once. Fouad was pricing cans in the back when the man came in. He called out without looking — *be right with you* — the way he'd called it ten thousand times in twenty years on Gottingen. By the time he got to the counter the man was already at the imported shelf.

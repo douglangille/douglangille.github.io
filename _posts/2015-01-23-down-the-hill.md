@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/down-the-hill/24719250735_3cfb5af0f8_toboggan.jpg
 ---
-
 # Down the Hill
 
 "You wax the flyer? It's all shiny."

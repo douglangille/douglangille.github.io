@@ -13,7 +13,6 @@ tags:
   - wit
 feature: /assets/images/the-standoff/5923105171_90007ff833_cat-mouse.jpg
 ---
-
 # The Standoff
 
 Missy's moon shadow cast long, tail twitching in anticipation; the taste of freshly killed squirrel electrified her whiskers. She named her quarry Nemesis.

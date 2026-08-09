@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/backroom-elves/5297560931_2107f4287a_christmas-elf.jpg
 ---
-
 # Backroom Elves
 
 "Blinky, put that wrench down and get over here. I need a hand."

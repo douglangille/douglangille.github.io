@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/justin-takes-control/redlight_district_by_neuro_riviera-d2zmr1z.jpg
 ---
-
 # Justin Takes Control
 
 Agent Justin Cayse left the bordello from the rear, having escaped his captor. Ava Longleggs, always the most generous of hosts, enjoyed Mister Cayse's visits immensely, often more than once. To be sure, the restraints were optional.

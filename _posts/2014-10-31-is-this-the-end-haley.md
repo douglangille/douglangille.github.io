@@ -14,7 +14,6 @@ tags:
   - haley
 feature: /assets/images/is-this-the-end-haley/c7eae012190627c8_1280_night-birds.jpg
 ---
-
 # Is This the End, Haley?
 
 Jimmy drove too fast for my liking, but under the circumstances, I didn't argue even if we didn't use headlights. Ben was in the front with him acting as navigator, leaving us two girls in the back. They'd been trading shift driving for hours. It felt like morning would never come.

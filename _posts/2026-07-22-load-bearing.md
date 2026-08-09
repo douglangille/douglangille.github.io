@@ -8,7 +8,6 @@ header:
 feature: /assets/images/load-bearing/feature.png
 tags: [speculative, intimacy, melancholy]
 ---
-
 # Load-bearing
 
 Ninety seconds, if I don't rush it. I don't rush it.

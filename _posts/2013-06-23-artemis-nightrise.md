@@ -12,7 +12,6 @@ header:
   overlay_image: /assets/images/artemis-nightrise/flickr-6620255181-original.jpg
 feature: /assets/images/artemis-nightrise/flickr-6620255181-original.jpg
 ---
-
 # Artemis Nightrise
 
 Evie had a problem. She was overwhelmed. The coven hadn't assembled like this in more than two-hundred years. She was unsure how many of the Night-seekers were even left. The ship's beacon had gone off on her watch. She verified the scans twice, then three times, to convince herself that their long journey was about to end. Finally, a whole new world. She was so thirsty. One thing at a time.

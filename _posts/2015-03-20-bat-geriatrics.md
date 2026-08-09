@@ -12,7 +12,6 @@ tags:
   - wit
 feature: /assets/images/bat-geriatrics/batman-532919_1280.jpg
 ---
-
 # Bat Geriatrics
 
 "Alfred! Get me my cowl."

@@ -13,7 +13,6 @@ tags:
   - revised
 feature: /assets/images/from-the-window/IMG_0342.jpg
 ---
-
 # From the Window
 
 Elvis has left the building.

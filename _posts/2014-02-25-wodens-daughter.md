@@ -13,7 +13,6 @@ tags:
   - melancholy
 feature: /assets/images/wodens-daughter/precipice_by_machelko.jpg
 ---
-
 # Woden&#39;s Daughter
 
 The Allfather's daughter, shame of Asgard, fled the Great Hall and made her way through the wood to the cliff-side. There, she gathered her furs about her shoulders and waited.  Brynhildr wiped her tears away and closed her eyes to the wind off the sea. He would come, she thought. Loki always did.

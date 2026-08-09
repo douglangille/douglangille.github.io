@@ -10,7 +10,6 @@ header:
 excerpt: The steam wand hisses.
 feature: /assets/images/i-made-it-right/IMG_0122.png
 ---
-
 # I Made It Right
 
 The steam wand hisses. Pink Pony Club is playing. *Won't make my mama proud, it's gonna cause a scene.* I'm humming it without meaning to, the way that makes the shift speed by.

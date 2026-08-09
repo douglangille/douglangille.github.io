@@ -12,7 +12,6 @@ header:
   overlay_image: /assets/images/once-upon-a-crayon/9403909030_1557ce54bd_crayon.jpg
 feature: /assets/images/once-upon-a-crayon/9403909030_1557ce54bd_crayon.jpg
 ---
-
 # Once Upon a Crayon
 
 ![](/assets/images/once-upon-a-crayon/9403909030_1557ce54bd_crayon.jpg){: .align-right}

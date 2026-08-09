@@ -13,7 +13,6 @@ tags:
   - tension
 feature: /assets/images/of-blood-and-text-messaging/smartphone-593318.jpg
 ---
-
 # Of Blood and Text Messaging
 
 Detective Arnie Chalmers dropped his finished cigarette to the asphalt, ground it with his heel, and waited for his partner to catch up. "Ready, Steve?"

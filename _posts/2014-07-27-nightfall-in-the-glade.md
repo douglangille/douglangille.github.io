@@ -13,7 +13,6 @@ tags:
   - tension
 feature: /assets/images/nightfall-in-the-glade/Forest_Glade.jpg
 ---
-
 # Nightfall in the Glade
 
 Legato and Mezzo flew as if their wings were aflame, knocking baskets of gathered berries to the forest floor far below. The twins corkscrewed their way up and around the ancient tree to the canopy of the Glade. They landed on the Great Chamber's platform at a sprint. Chancellor Fortissima of the Faie waited for her couriers to catch their breath.

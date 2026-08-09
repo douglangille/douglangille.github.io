@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/on-the-crest-of-the-storm/a1bc99068ab8b46b_1280_lightning.jpg
 ---
-
 # On the Crest of the Storm
 
 thunderous dark skies  

@@ -12,7 +12,6 @@ tags:
   - eerie
 feature: /assets/images/moon-and-badge/7136114679_82420e7ff5_b.jpg
 ---
-
 # Moon and Badge
 
 "What seems to be the problem, Officer?" I ask.

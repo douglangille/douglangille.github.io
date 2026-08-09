@@ -11,7 +11,6 @@ excerpt: Doug leans back in his Lazyboy and stretches his arms over his head wit
   laced fingers.
 feature: /assets/images/the-writer/8226570181_e9e2fde4fd_writer.jpg
 ---
-
 # The Writer
 
 Doug leans back in his Lazyboy and stretches his arms over his head with laced fingers. Gracie seizes the opportunity and slinks on to his lap, circles twice (counter-clockwise) before curing up in a ball with a satisfied sigh. 

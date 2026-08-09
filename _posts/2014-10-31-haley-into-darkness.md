@@ -14,7 +14,6 @@ tags:
   - haley
 feature: /assets/images/haley-into-darkness/5e4b3b460f6e1ab4_640_closet.jpg
 ---
-
 # Haley Into Darkness
 
 We huddled in the dark closet for what seemed like forever, our hearts pounding in our chests. The blood washed in my head, a tidal ebb and flow with each beat of endless waiting. My eyes hurt from squeezing them shut. I opened them slowly and all I saw was the darklight static of the room. Flashes and fibers of light noise sparked in the black as my brain struggled to make sense of the dark. It made me dizzy.

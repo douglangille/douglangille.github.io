@@ -10,7 +10,6 @@ categories: []
 tags: [grounded, kith-kin, tension]
 feature: /assets/images/a-close-call/4597461278_a5c993ccc1_b.jpg
 ---
-
 # A Close Call
 
 It was a dark and stormy night, my wife and daughter were driving to a Fire Hall outside Chester for a family gathering. The rain pounded the roads and the car skidded awkwardly around corners as the trees whizzed by. Nightfall came early as the storm strengthened. The lighthearted fare of conversation fell quiet amid the whump-whump of the window wipers. A powerline fell across the road as the sparsely populated rural neighborhood plunged further in to darkness. The girls were about to turn for home when they rounded the corner and arrived at their destination.

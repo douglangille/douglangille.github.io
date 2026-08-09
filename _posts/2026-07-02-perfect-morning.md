@@ -11,7 +11,6 @@ tags:
   - melancholy
 feature: /assets/images/perfect-morning/feature.png
 ---
-
 # Perfect Morning
 
 The back door sticks on humid mornings. He puts his shoulder into it, the familiar give, and the dogs push past him before it's fully open.

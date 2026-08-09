@@ -13,7 +13,6 @@ header:
   overlay_image: /assets/images/eddie-zero/eddie-zero.png
 feature: /assets/images/eddie-zero/eddie-zero.png
 ---
-
 # Eddie Zero
 
 I didn't kill him. He was already dead.

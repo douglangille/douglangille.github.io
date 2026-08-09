@@ -9,7 +9,6 @@ categories: []
 tags: [grounded, intimacy, wit, poetry]
 feature: /assets/images/strange-love/2535792133_23d929a8a7_b.jpg
 ---
-
 # Strange Love
 
 There once was a lady, hailing from the circus  

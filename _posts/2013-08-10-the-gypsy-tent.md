@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/the-gypsy-tent/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
 ---
-
 # The Gypsy Tent
 
 I wandered through the county fair,  

@@ -13,7 +13,6 @@ tags:
   - poetry
 feature: /assets/images/six-minutes/earth-244238_1280.jpg
 ---
-
 # Six Minutes
 
 That's how long

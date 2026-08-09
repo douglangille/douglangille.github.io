@@ -13,7 +13,6 @@ tags:
   - haley
 feature: /assets/images/haley-on-the-road/road-166543.jpg
 ---
-
 # Haley on the Road
 
 We had to pull over on the side of the road when the jeep started to overheat. I got out and stretched. Even though it was early November, it was unseasonably warm. I placed my hands on the small of my back and arched as far back as I could. I heard a popping sound and winced.
