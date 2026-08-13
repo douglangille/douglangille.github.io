@@ -1,5 +1,5 @@
 ---
-title: Scott Woos Amy
+title: Scott Woos Dez
 date: 2014-07-25 08:00:00 -0400
 excerpt: '"I would give you the moon, babe.'
 header:
@@ -12,7 +12,7 @@ tags:
   - wit
 feature: /assets/images/scott-woos-amy/ec33b10820f71c3e81584d04ee44408be273e7d61db212449cf2_640_moon.jpg
 ---
-# Scott Woos Amy
+# Scott Woos Dez
 
 "I would give you the moon, babe."
 
@@ -22,7 +22,7 @@ feature: /assets/images/scott-woos-amy/ec33b10820f71c3e81584d04ee44408be273e7d61
 
 "What about that star over there? Would you pluck that from the sky for me?"
 
-"I'd do better, Amy. I'd make it rain stars."
+"I'd do better, Dezy. I'd make it rain stars."
 
 "But would you respect me in the morning?"
 

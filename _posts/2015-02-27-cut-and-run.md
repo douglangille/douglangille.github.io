@@ -1,7 +1,7 @@
 ---
 title: Cut and Run
 date: 2015-02-27 08:00:00 -0400
-excerpt: Amy hung sloppily off the arm of Scott.
+excerpt: Dez hung sloppily off the arm of Scott.
 header:
   teaser: /assets/images/cut-and-run/sun-19814.jpg
   overlay_image: /assets/images/cut-and-run/sun-19814.jpg
@@ -14,51 +14,51 @@ feature: /assets/images/cut-and-run/sun-19814.jpg
 ---
 # Cut and Run
 
-Amy hung sloppily off the arm of Scott. To everyone at the party, it appeared that she couldn't hold her liquor as well as she'd thought. Billie, of course, knew the truth.
+Dez hung sloppily off the arm of Scott. To everyone at the party, it appeared that she couldn't hold her liquor as well as she'd thought. Billie, of course, knew the truth.
 
-The shapely Billie floated around the room from table to table, mingling with the rich folk. She talked them up, especially the men--- and occasionally the women. Not that it bothered Billie to have that kind of attention. In fact, she delighted in teasing Amy with the competition.
+The shapely Billie floated around the room from table to table, mingling with the rich folk. She talked them up, especially the men--- and occasionally the women. Not that it bothered Billie to have that kind of attention. In fact, she delighted in teasing Dez with the competition.
 
 Already the fifth night of the cruise, and the trio scored more than they'd hoped. *Easy marks, these people were oblivious.*
 
 Billie left the latest table and felt at least one pair of eyes on her backside. She tucked a lock of hair over her ear and spoke lowly into her mic. "Deck C, Cabin 34".
 
-"Already on our way," responded Amy as she and Scott maintained the conceit of mutual drunkenness, ambling down the hallway of Deck C's port-side cabins.
+"Already on our way," responded Dez as she and Scott maintained the conceit of mutual drunkenness, ambling down the hallway of Deck C's port-side cabins.
 
-"We're here," said Scott, as he and Amy slipped on their latex gloves. He pulled the slimjim from his breast pocket. Amy stood across the hall and kept watch. Nearly everyone was at the party, but diligence kept them safe.
+"We're here," said Scott, as he and Dez slipped on their latex gloves. He pulled the slimjim from his breast pocket. Dez stood across the hall and kept watch. Nearly everyone was at the party, but diligence kept them safe.
 
-Inside, Amy closed the door and leaned against it with her hands behind her. "You bring the UV light this time?"
+Inside, Dez closed the door and leaned against it with her hands behind her. "You bring the UV light this time?"
 
 Scott shot her an annoyed look. "Of course I did. Right here." He held up the flashlight with the purplish lens as he headed to the cabin safe.
 
-Amy turned the bolt on the lock and followed him. She slid her hands over his shoulders and felt the breadth of his chest. *If Billie wasn't in picture... Well, who knows? Scott will always be special--- to both of us.* "I'm sorry, Sweetie. This should be our last one and we can enjoy the rest of the cruise." She kissed him wetly on the back of the neck and let him go.
+Dez turned the bolt on the lock and followed him. She slid her hands over his shoulders and felt the breadth of his chest. *If Billie wasn't in picture... Well, who knows? Scott will always be special--- to both of us.* "I'm sorry, Sweetie. This should be our last one and we can enjoy the rest of the cruise." She kissed him wetly on the back of the neck and let him go.
 
-Scott's face turned a hot red. Billie always got the upper hand. Growing up, she'd take his things and steal the limelight. These days, he'd play wingman for her. Amy played them both.
+Scott's face turned a hot red. Billie always got the upper hand. Growing up, she'd take his things and steal the limelight. These days, he'd play wingman for her. Dez played them both.
 
 He shook his head to focus on the task at hand. Shining the light on the keypad, the residue of the most recent user's fingertips shone darkly on each number. Four of them were fresh.
 
-Amy spoke into her mic. "One, two, seven, zero. Make any sense to you, girl."
+Dez spoke into her mic. "One, two, seven, zero. Make any sense to you, girl."
 
 "Birthday. October 27th," came back Billie's reply.
 
-"Try one-oh-two-seven, Scott," said Amy.
+"Try one-oh-two-seven, Scott," said Dez.
 
-He did and turned the handle. *Bingo.* Amy reached in and thumbed through the contents. Passports, some weed and a billfold of money. The cruise was all-inclusive and the giftshops were all charge accounts. No one needed cash on hand but everyone took some anyway. Most wouldn't notice it missing until they hit port. That'd been the experience so far.
+He did and turned the handle. *Bingo.* Dez reached in and thumbed through the contents. Passports, some weed and a billfold of money. The cruise was all-inclusive and the giftshops were all charge accounts. No one needed cash on hand but everyone took some anyway. Most wouldn't notice it missing until they hit port. That'd been the experience so far.
 
-Amy tucked the cash into her handbag and Scott closed up the safe with the same code. She took one last look around before they left. *Clean as a whistle.*
+Dez tucked the cash into her handbag and Scott closed up the safe with the same code. She took one last look around before they left. *Clean as a whistle.*
 
 "Nicely done, Scott," she said and handed him her gloves. He stuffed both pair in his pocket and they made their way back to the party.
 
-"We're on our way," said Amy to Billie.
+"We're on our way," said Dez to Billie.
 
 "Good. Hurry. Something's happening. I need you here," said Billie. Her voice was louder and more frantic than expected.
 
-"What's wrong?" asked Amy. No response.
+"What's wrong?" asked Dez. No response.
 
-The loud roar of gunfire sounded from the venue ahead. Scott grabbed Amy's arm and they took off at a sprint.
+The loud roar of gunfire sounded from the venue ahead. Scott grabbed Dez's arm and they took off at a sprint.
 
 Billie nearly ran into them as they rounded the corner of the stairwell.
 
-"You okay?" asked Amy.
+"You okay?" asked Dez.
 
 Billie nodded. "Not really. We got problems."
 
@@ -70,7 +70,7 @@ Billie nodded. "Not really. We got problems."
 
 Billie closed her eyes and forced herself to take a breath. *He couldn't help it. This is how he is.* She grabbed him gently by the shoulders. "Get it together, Bro. It'll be okay. We need you to help get these idiots off this boat."
 
-"How do we do that?" Amy's eyes were wide.
+"How do we do that?" Dez's eyes were wide.
 
 Billie didn't know. Everything inside her screamed at her to fight and come up with a plan. They'd worked too hard for this. No freaky-ass band of pirates were going to swipe what they'd earned.
 
