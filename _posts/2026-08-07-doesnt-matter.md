@@ -14,7 +14,7 @@ Blood dries the same everywhere. Under my nails, in the seams of my palms, gone 
 
 We're camped on the steps of the United Church, the doors propped with a pew, glass gone from every window facing the street. Sun's out, not a cloud to be seen, and the light makes the whole street look freshly washed if you don't look too close. Sally sits three steps up, ukulele in her lap, working it with three fingers. She misses more notes than she hits, tongue caught between her teeth, like she's trying not to think about something else. Can't blame her. A lot has happened. The plunky sound carries down Main Street and dies somewhere past the huge ass blueberry statue at the edge of town, chipped now, one leaf broken off, paint gone the colour of an old bruise.
 
-Clyde's inside going through the church's food bank pantry with Billy, counting cans, arguing low about whether the tuna's still good past whatever date's stamped on the lid. Ben is about to give the truck its last rites. Eunice is stretched out in the shade of the last pew, eyes shut, breath rattling shallow in her chest, a sweat-sheen on her face. Been getting worse. Nobody wakes her to ask.
+Clyde's inside going through the church's food bank pantry with Billy, counting cans, arguing about whether the tuna's still good past whatever date's stamped on the lid. Ben is about to give the truck its last rites. Eunice is stretched out in the shade of the last pew, eyes shut, breath rattling shallow in her chest, a sweat-sheen on her face. Been getting worse. Nobody wakes her to ask.
 
 I get up and walk. Nobody stops me. This is what I do now. Just me and my machete on patrol. I walk until something needs doing, and something always does.
 
