@@ -16,11 +16,11 @@ The morning started with Donnie eating toast over the sink the way he always did
 
 "Yeah?" he said, still chewing.
 
-I hip-checked him so I could get into the junk drawer for batteries. *These'll work*. 
+I hip-checked him so I could get into the junk drawer for batteries. *These'll work.* 
 
 He snatched his coffee mug and plunked it on the table, sloshing but not quite spilling. Then he sat down and watched me fiddle with the ancient relic. His wry smile was infuriating. I ignored it.
 
-A Polaroid. I couldn't remember my dad ever using one, but there it was, still loaded and ready to go. Donnie wiped his mouth with the back of his hand and said *let's take a picture*. He scooted his chair back and I sat on his lap and held the camera up. We made faces. The flash went off.
+A Polaroid. I couldn't remember my dad ever using one, but there it was, still loaded and ready to go. Donnie wiped his mouth with the back of his hand and said *let's take a picture.* He scooted his chair back and I sat on his lap and held the camera up. We made faces. The flash went off.
 
 I pulled the photo out and held it, still dark and blank. Donnie's phone rang.
 
