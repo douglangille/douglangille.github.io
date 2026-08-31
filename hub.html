@@ -1,0 +1,135 @@
+---
+layout: none
+permalink: /hub/
+title: Doug Langille
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Doug Langille</title>
+<meta name="description" content="IT leader, tech writer, and dark fiction author. Pick your poison: coffee or whiskey.">
+<meta property="og:title" content="Doug Langille">
+<meta property="og:description" content="IT leader, tech writer, and dark fiction author. Pick your poison: coffee or whiskey.">
+<meta property="og:image" content="https://douglangille.ca/assets/images/bio-photo.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<style>
+  :root {
+    --bg: #1a1a1e;
+    --card-bg: #232328;
+    --text: #e8e6e1;
+    --muted: #9a978f;
+    --accent: #d4a017;
+    --digital-color: #3a7ca5;
+    --fiction-color: #6b2d3c;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1rem;
+  }
+  .wrap { max-width: 640px; width: 100%; }
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  .header img {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  h1 { font-size: 1.5rem; font-weight: 600; }
+  .subtitle { color: var(--muted); font-size: 0.9rem; margin-top: 0.15rem; }
+  .tagline {
+    color: var(--text);
+    font-size: 1rem;
+    margin-bottom: 2rem;
+    line-height: 1.55;
+  }
+  .blocks {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  @media (max-width: 480px) {
+    .blocks { grid-template-columns: 1fr; }
+  }
+  .block {
+    display: block;
+    background: var(--card-bg);
+    border-radius: 10px;
+    padding: 1.4rem;
+    text-decoration: none;
+    color: var(--text);
+    border-left: 4px solid transparent;
+    transition: transform 0.15s ease;
+  }
+  .block:hover { transform: translateY(-2px); }
+  .block.digital { border-left-color: var(--digital-color); }
+  .block.fiction { border-left-color: var(--fiction-color); }
+  .block-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin-bottom: 0.3rem;
+  }
+  .block-title { font-size: 1.15rem; font-weight: 600; margin-bottom: 0.4rem; }
+  .block-desc { font-size: 0.85rem; color: var(--muted); line-height: 1.45; }
+  .contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+    font-size: 0.9rem;
+    border-top: 1px solid #333;
+    padding-top: 1.2rem;
+  }
+  .contact a { color: var(--accent); text-decoration: none; }
+  .contact a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="header">
+      <img src="/assets/images/bio-photo.png" alt="Doug Langille">
+      <div>
+        <h1>Doug Langille</h1>
+        <div class="subtitle">IT manager, tech writer, and creative storyteller</div>
+      </div>
+    </div>
+
+    <p class="tagline">26 years wrangling technology and innovation at Nova Scotia Community College. Two sites, two voices — one runs on black coffee, the other on whiskey.</p>
+
+    <div class="blocks">
+      <a class="block digital" href="https://digital.douglangille.ca">
+        <div class="block-label">Nonfiction</div>
+        <div class="block-title">Digital Doug</div>
+        <div class="block-desc">Where pixels meet purpose. AI, productivity, and higher-ed innovation — the workbench is messy and the takes are lukewarm.</div>
+      </a>
+      <a class="block fiction" href="https://douglangille.ca">
+        <div class="block-label">Fiction</div>
+        <div class="block-title">Darkling Whim</div>
+        <div class="block-desc">Untethered tales, beautifully scarred. Dark speculative fiction with teeth.</div>
+      </a>
+    </div>
+
+    <div class="contact">
+      <a href="mailto:me@douglangille.ca">Email</a>
+      <a href="https://www.linkedin.com/in/douglangille/">LinkedIn</a>
+      <a href="https://www.amazon.com/author/douglangille">Amazon Author Page</a>
+    </div>
+  </div>
+</body>
+</html>
