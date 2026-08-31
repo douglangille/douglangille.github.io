@@ -15,89 +15,117 @@ title: Doug Langille
 <meta property="og:image" content="https://douglangille.ca/assets/images/bio-photo.png">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #1a1a1e;
-    --card-bg: #232328;
-    --text: #e8e6e1;
-    --muted: #9a978f;
-    --accent: #d4a017;
-    --digital-color: #3a7ca5;
-    --fiction-color: #6b2d3c;
+    --bg: #1B1F2B;
+    --paper: #ECE4D3;
+    --ink: #F4EFE3;
+    --muted: #9B9788;
+    --tech: #6E9C96;
+    --fiction: #A4636F;
+    --signature: #B08D57;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     background: var(--bg);
-    color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    color: var(--paper);
+    font-family: 'Fraunces', Georgia, serif;
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 2rem 1rem;
+    padding: 3rem 1.5rem;
   }
-  .wrap { max-width: 640px; width: 100%; }
+  .wrap { max-width: 560px; width: 100%; }
+
   .header {
     display: flex;
     align-items: center;
-    gap: 1rem;
-    margin-bottom: 1.5rem;
+    gap: 1.1rem;
+    margin-bottom: 1.6rem;
   }
   .header img {
-    width: 64px;
-    height: 64px;
+    width: 58px;
+    height: 58px;
     border-radius: 50%;
     object-fit: cover;
+    flex-shrink: 0;
+    filter: saturate(0.85);
   }
-  h1 { font-size: 1.5rem; font-weight: 600; }
-  .subtitle { color: var(--muted); font-size: 0.9rem; margin-top: 0.15rem; }
-  .tagline {
-    color: var(--text);
-    font-size: 1rem;
-    margin-bottom: 2rem;
-    line-height: 1.55;
+  h1 {
+    font-size: 1.65rem;
+    font-weight: 500;
+    color: var(--ink);
+    letter-spacing: -0.01em;
   }
-  .blocks {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
-    margin-bottom: 2rem;
-  }
-  @media (max-width: 480px) {
-    .blocks { grid-template-columns: 1fr; }
-  }
-  .block {
-    display: block;
-    background: var(--card-bg);
-    border-radius: 10px;
-    padding: 1.4rem;
-    text-decoration: none;
-    color: var(--text);
-    border-left: 4px solid transparent;
-    transition: transform 0.15s ease;
-  }
-  .block:hover { transform: translateY(-2px); }
-  .block.digital { border-left-color: var(--digital-color); }
-  .block.fiction { border-left-color: var(--fiction-color); }
-  .block-label {
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
+  .role {
+    font-style: italic;
     color: var(--muted);
-    margin-bottom: 0.3rem;
+    font-size: 0.95rem;
+    margin-top: 0.15rem;
   }
-  .block-title { font-size: 1.15rem; font-weight: 600; margin-bottom: 0.4rem; }
-  .block-desc { font-size: 0.85rem; color: var(--muted); line-height: 1.45; }
+
+  p.intro {
+    font-size: 1.05rem;
+    line-height: 1.65;
+    max-width: 60ch;
+    margin-bottom: 1.8rem;
+  }
+
+  .seam { width: 100%; height: 28px; margin-bottom: 2rem; display: block; }
+  .seam path { fill: none; stroke: var(--signature); stroke-width: 1.4; stroke-linecap: round; }
+
+  .links { margin-bottom: 2rem; }
+  .link-row {
+    display: flex;
+    align-items: baseline;
+    gap: 0.9rem;
+    padding: 0.85rem 0;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(236, 228, 211, 0.1);
+  }
+  .link-row:last-child { border-bottom: none; }
+  .link-row svg { flex-shrink: 0; width: 18px; height: 18px; margin-top: 0.15rem; }
+  .link-row .digital-icon { stroke: var(--tech); }
+  .link-row .fiction-icon { stroke: var(--fiction); }
+  .link-title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.95rem;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .link-desc {
+    font-style: italic;
+    color: var(--muted);
+    font-size: 0.88rem;
+    display: block;
+    margin-top: 0.2rem;
+    font-family: 'Fraunces', Georgia, serif;
+  }
+
   .contact {
     display: flex;
     flex-wrap: wrap;
-    gap: 1.2rem;
-    font-size: 0.9rem;
-    border-top: 1px solid #333;
-    padding-top: 1.2rem;
+    gap: 0;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.82rem;
   }
-  .contact a { color: var(--accent); text-decoration: none; }
-  .contact a:hover { text-decoration: underline; }
+  .contact a {
+    color: var(--muted);
+    text-decoration: none;
+    padding: 0 0.8rem;
+    border-left: 1px solid rgba(236, 228, 211, 0.15);
+  }
+  .contact a:first-child { padding-left: 0; border-left: none; }
+  .contact a:hover { color: var(--ink); }
+
+  @media (max-width: 420px) {
+    .header { align-items: flex-start; }
+    h1 { font-size: 1.4rem; }
+  }
 </style>
 </head>
 <body>
@@ -106,29 +134,43 @@ title: Doug Langille
       <img src="/assets/images/bio-photo.png" alt="Doug Langille">
       <div>
         <h1>Doug Langille</h1>
-        <div class="subtitle">IT manager, tech writer, and creative storyteller</div>
+        <div class="role">IT leader, tech writer, and creative storyteller</div>
       </div>
     </div>
 
-    <p class="tagline">26 years wrangling technology and innovation at Nova Scotia Community College. Two sites, two voices — one runs on black coffee, the other on whiskey.</p>
+    <p class="intro">At Nova Scotia Community College since 1999, working on technology and innovation. After hours, two other sites — one runs on black coffee, the other on whiskey.</p>
 
-    <div class="blocks">
-      <a class="block digital" href="https://digital.douglangille.ca">
-        <div class="block-label">Nonfiction</div>
-        <div class="block-title">Digital Doug</div>
-        <div class="block-desc">Where pixels meet purpose. AI, productivity, and higher-ed innovation — the workbench is messy and the takes are lukewarm.</div>
+    <svg class="seam" viewBox="0 0 560 28" preserveAspectRatio="none">
+      <path d="M0,14 L30,14 L30,4 L55,4 L55,22 L80,22 L80,10 L105,10 L105,16 C130,16 140,4 160,18 C180,32 195,2 215,16 C235,30 250,6 270,20 C295,34 320,2 350,18 C380,34 410,8 445,22 C475,32 505,10 560,16" />
+    </svg>
+
+    <div class="links">
+      <a class="link-row" href="https://digital.douglangille.ca">
+        <svg class="digital-icon" viewBox="0 0 24 24" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="8" y="8" width="8" height="8"></rect>
+          <path d="M12 2v4M12 18v4M2 12h4M18 12h4M5 5l3 3M16 16l3 3M19 5l-3 3M8 16l-3 3"></path>
+        </svg>
+        <div>
+          <span class="link-title">Digital Doug</span>
+          <span class="link-desc">Where pixels meet purpose — AI, productivity, and higher-ed, told straight.</span>
+        </div>
       </a>
-      <a class="block fiction" href="https://douglangille.ca">
-        <div class="block-label">Fiction</div>
-        <div class="block-title">Darkling Whim</div>
-        <div class="block-desc">Untethered tales, beautifully scarred. Dark speculative fiction with teeth.</div>
+      <a class="link-row" href="https://douglangille.ca">
+        <svg class="fiction-icon" viewBox="0 0 24 24" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 20c2-6 1-10 4-14 2 4-1 8 2 12 2-4 0-7 3-10 1 5-1 8 2 12"></path>
+        </svg>
+        <div>
+          <span class="link-title">Darkling Whim</span>
+          <span class="link-desc">Untethered tales, beautifully scarred — dark speculative fiction with teeth.</span>
+        </div>
       </a>
     </div>
 
     <div class="contact">
       <a href="mailto:me@douglangille.ca">Email</a>
       <a href="https://www.linkedin.com/in/douglangille/">LinkedIn</a>
-      <a href="https://www.amazon.com/author/douglangille">Amazon Author Page</a>
+      <a href="https://github.com/douglangille">GitHub</a>
+      <a href="https://www.amazon.com/author/douglangille">Amazon Author</a>
     </div>
   </div>
 </body>
