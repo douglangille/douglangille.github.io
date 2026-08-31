@@ -114,6 +114,17 @@ title: Doug Langille
     font-family: 'JetBrains Mono', monospace;
     font-size: 0.82rem;
   }
+
+  .contact {
+    justify-content: space-between;
+    width: 100%;
+  }
+  .copyright {
+    padding-left: 0.8rem;
+    color: var(--muted);
+    margin-left: auto;
+  }
+  
   .contact a {
     color: var(--muted);
     text-decoration: none;
@@ -167,13 +178,14 @@ title: Doug Langille
       </a>
     </div>
 
-    <div class="contact">
-      <a href="mailto:me@douglangille.ca">Email</a>
-      <a href="https://www.linkedin.com/in/douglangille/">LinkedIn</a>
-      <a href="https://github.com/douglangille">GitHub</a>
-      <a href="https://www.amazon.com/author/douglangille">Amazon Author</a>
-      <a href="https://douglangille.substack.com">Substack</a>
-    </div>
+  <div class="contact">
+    <a href="mailto:me@douglangille.ca">Email</a>
+    <a href="https://www.linkedin.com/in/douglangille/">LinkedIn</a>
+    <a href="https://github.com/douglangille">GitHub</a>
+    <a href="https://www.amazon.com/author/douglangille">Amazon Author</a>
+    <a href="https://douglangille.substack.com">Substack</a>
+    <span class="copyright">&copy; {{ site.time | date: "%Y" }} Doug Langille</span>
+  </div>
   </div>
 </body>
 </html>
